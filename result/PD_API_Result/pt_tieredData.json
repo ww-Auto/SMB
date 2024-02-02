@@ -1,0 +1,610 @@
+[
+  {
+    "SKU": "SM-A136BLBUEUB",
+    "PDURL": "https://www.samsung.com/pt/business/smartphones/galaxy-a/a13-5g-sm-a136blbueub/buy/",
+    "Stock": "addToCart",
+    "Include": [
+      {
+        "range": "1-2",
+        "price": "total price\n229,90 €",
+        "minCount": "1",
+        "minCartCount": "1",
+        "minCartPrice": "229,90 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "maxCount": "2",
+        "maxCartCount": "2",
+        "maxCartPrice": "459,80 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "3-10",
+        "price": "total price\n239,90 €",
+        "minCount": "3",
+        "minCartCount": "3",
+        "minCartPrice": "689,70 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "maxCount": "10",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "max: lowStock:5 "
+      },
+      {
+        "range": "11+",
+        "price": "total price\n219,90 €",
+        "minCount": "11",
+        "minCartCount": "",
+        "minCartPrice": "",
+        "maxCount": "N/A",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "min: lowStock:5 "
+      }
+    ],
+    "Exclude": [
+      {
+        "range": "1-2",
+        "price": "total price\n179,23 €",
+        "minCount": "1",
+        "minCartCount": "1",
+        "minCartPrice": "229,90 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "maxCount": "2",
+        "maxCartCount": "2",
+        "maxCartPrice": "459,80 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "3-10",
+        "price": "total price\n187,36 €",
+        "minCount": "3",
+        "minCartCount": "3",
+        "minCartPrice": "689,70 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "maxCount": "10",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "max: lowStock:5 "
+      },
+      {
+        "range": "11+",
+        "price": "total price\n171,10 €",
+        "minCount": "11",
+        "minCartCount": "",
+        "minCartPrice": "",
+        "maxCount": "N/A",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "min: lowStock:5 "
+      }
+    ],
+    "Comment": null
+  },
+  {
+    "SKU": "SM-A136BZKUEUB",
+    "PDURL": "https://www.samsung.com/pt/business/smartphones/galaxy-a/a13-5g-sm-a136bzkueub/buy/",
+    "Stock": "addToCart",
+    "Include": [
+      {
+        "range": "1-2",
+        "price": "total price\n229,90 €",
+        "minCount": "1",
+        "minCartCount": "1",
+        "minCartPrice": "229,90 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "maxCount": "2",
+        "maxCartCount": "2",
+        "maxCartPrice": "459,80 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "3-10",
+        "price": "total price\n239,90 €",
+        "minCount": "3",
+        "minCartCount": "3",
+        "minCartPrice": "689,70 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "maxCount": "10",
+        "maxCartCount": "10",
+        "maxCartPrice": "2.299,00 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "11+",
+        "price": "total price\n219,90 €",
+        "minCount": "11",
+        "minCartCount": "11",
+        "minCartPrice": "2.418,90 €\nPoupe 30,00 € (Antes 249,90 €)",
+        "maxCount": "N/A",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": ""
+      }
+    ],
+    "Exclude": [
+      {
+        "range": "1-2",
+        "price": "total price\n179,23 €",
+        "minCount": "1",
+        "minCartCount": "1",
+        "minCartPrice": "229,90 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "maxCount": "2",
+        "maxCartCount": "2",
+        "maxCartPrice": "459,80 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "3-10",
+        "price": "total price\n187,36 €",
+        "minCount": "3",
+        "minCartCount": "3",
+        "minCartPrice": "689,70 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "maxCount": "10",
+        "maxCartCount": "10",
+        "maxCartPrice": "2.299,00 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "11+",
+        "price": "total price\n171,10 €",
+        "minCount": "11",
+        "minCartCount": "11",
+        "minCartPrice": "2.418,90 €\nPoupe 30,00 € (Antes 249,90 €)",
+        "maxCount": "N/A",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": ""
+      }
+    ],
+    "Comment": null
+  },
+  {
+    "SKU": "SM-A136BZWUEUB",
+    "PDURL": "https://www.samsung.com/pt/business/smartphones/galaxy-a/a13-5g-sm-a136bzwueub/buy/",
+    "Stock": "addToCart",
+    "Include": [
+      {
+        "range": "1-2",
+        "price": "total price\n229,90 €",
+        "minCount": "1",
+        "minCartCount": "1",
+        "minCartPrice": "229,90 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "maxCount": "2",
+        "maxCartCount": "2",
+        "maxCartPrice": "459,80 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "3-10",
+        "price": "total price\n239,90 €",
+        "minCount": "3",
+        "minCartCount": "3",
+        "minCartPrice": "689,70 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "maxCount": "10",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "max: lowStock:3 "
+      },
+      {
+        "range": "11+",
+        "price": "total price\n219,90 €",
+        "minCount": "11",
+        "minCartCount": "",
+        "minCartPrice": "",
+        "maxCount": "N/A",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "min: lowStock:3 "
+      }
+    ],
+    "Exclude": [
+      {
+        "range": "1-2",
+        "price": "total price\n179,23 €",
+        "minCount": "1",
+        "minCartCount": "1",
+        "minCartPrice": "229,90 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "maxCount": "2",
+        "maxCartCount": "2",
+        "maxCartPrice": "459,80 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "3-10",
+        "price": "total price\n187,36 €",
+        "minCount": "3",
+        "minCartCount": "3",
+        "minCartPrice": "689,70 €\nPoupe 20,00 € (Antes 249,90 €)",
+        "maxCount": "10",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "max: lowStock:3 "
+      },
+      {
+        "range": "11+",
+        "price": "total price\n171,10 €",
+        "minCount": "11",
+        "minCartCount": "",
+        "minCartPrice": "",
+        "maxCount": "N/A",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "min: lowStock:3 "
+      }
+    ],
+    "Comment": null
+  },
+  {
+    "SKU": "SM-A136BZWVEUB",
+    "PDURL": "https://www.samsung.com/pt/business/smartphones/galaxy-a/a13-5g-sm-a136bzwveub/buy/",
+    "Stock": "addToCart",
+    "Include": [
+      {
+        "range": "1-2",
+        "price": "total price\n259,90 €",
+        "minCount": "1",
+        "minCartCount": "1",
+        "minCartPrice": "259,90 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "maxCount": "2",
+        "maxCartCount": "2",
+        "maxCartPrice": "519,80 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "3-10",
+        "price": "total price\n279,90 €",
+        "minCount": "3",
+        "minCartCount": "3",
+        "minCartPrice": "779,70 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "maxCount": "10",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "max: lowStock:9 "
+      },
+      {
+        "range": "11+",
+        "price": "total price\n249,90 €",
+        "minCount": "11",
+        "minCartCount": "",
+        "minCartPrice": "",
+        "maxCount": "N/A",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "min: lowStock:9 "
+      }
+    ],
+    "Exclude": [
+      {
+        "range": "1-2",
+        "price": "total price\n196,30 €",
+        "minCount": "1",
+        "minCartCount": "1",
+        "minCartPrice": "259,90 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "maxCount": "2",
+        "maxCartCount": "2",
+        "maxCartPrice": "519,80 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "3-10",
+        "price": "total price\n212,56 €",
+        "minCount": "3",
+        "minCartCount": "3",
+        "minCartPrice": "779,70 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "maxCount": "10",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "max: lowStock:9 "
+      },
+      {
+        "range": "11+",
+        "price": "total price\n188,17 €",
+        "minCount": "11",
+        "minCartCount": "",
+        "minCartPrice": "",
+        "maxCount": "N/A",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "min: lowStock:9 "
+      }
+    ],
+    "Comment": null
+  },
+  {
+    "SKU": "SM-A136BLBVEUB",
+    "PDURL": "https://www.samsung.com/pt/business/smartphones/galaxy-a/a13-5g-sm-a136blbveub/buy/",
+    "Stock": "addToCart",
+    "Include": [
+      {
+        "range": "1-2",
+        "price": "total price\n259,90 €",
+        "minCount": "1",
+        "minCartCount": "1",
+        "minCartPrice": "259,90 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "maxCount": "2",
+        "maxCartCount": "2",
+        "maxCartPrice": "519,80 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "3-10",
+        "price": "total price\n279,90 €",
+        "minCount": "3",
+        "minCartCount": "3",
+        "minCartPrice": "779,70 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "maxCount": "10",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "max: lowStock:5 "
+      },
+      {
+        "range": "11+",
+        "price": "total price\n249,90 €",
+        "minCount": "11",
+        "minCartCount": "",
+        "minCartPrice": "",
+        "maxCount": "N/A",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "min: lowStock:5 "
+      }
+    ],
+    "Exclude": [
+      {
+        "range": "1-2",
+        "price": "total price\n196,30 €",
+        "minCount": "1",
+        "minCartCount": "1",
+        "minCartPrice": "259,90 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "maxCount": "2",
+        "maxCartCount": "2",
+        "maxCartPrice": "519,80 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "3-10",
+        "price": "total price\n212,56 €",
+        "minCount": "3",
+        "minCartCount": "3",
+        "minCartPrice": "779,70 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "maxCount": "10",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "max: lowStock:5 "
+      },
+      {
+        "range": "11+",
+        "price": "total price\n188,17 €",
+        "minCount": "11",
+        "minCartCount": "",
+        "minCartPrice": "",
+        "maxCount": "N/A",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "min: lowStock:5 "
+      }
+    ],
+    "Comment": null
+  },
+  {
+    "SKU": "SM-A136BZKVEUB",
+    "PDURL": "https://www.samsung.com/pt/business/smartphones/galaxy-a/a13-5g-sm-a136bzkveub/buy/",
+    "Stock": "addToCart",
+    "Include": [
+      {
+        "range": "1-2",
+        "price": "total price\n259,90 €",
+        "minCount": "1",
+        "minCartCount": "1",
+        "minCartPrice": "259,90 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "maxCount": "2",
+        "maxCartCount": "2",
+        "maxCartPrice": "519,80 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "3-10",
+        "price": "total price\n279,90 €",
+        "minCount": "3",
+        "minCartCount": "3",
+        "minCartPrice": "779,70 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "maxCount": "10",
+        "maxCartCount": "10",
+        "maxCartPrice": "2.599,00 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "11+",
+        "price": "total price\n249,90 €",
+        "minCount": "11",
+        "minCartCount": "11",
+        "minCartPrice": "2.748,90 €\nPoupe 30,00 € (Antes 279,90 €)",
+        "maxCount": "N/A",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": ""
+      }
+    ],
+    "Exclude": [
+      {
+        "range": "1-2",
+        "price": "total price\n196,30 €",
+        "minCount": "1",
+        "minCartCount": "1",
+        "minCartPrice": "259,90 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "maxCount": "2",
+        "maxCartCount": "2",
+        "maxCartPrice": "519,80 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "3-10",
+        "price": "total price\n212,56 €",
+        "minCount": "3",
+        "minCartCount": "3",
+        "minCartPrice": "779,70 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "maxCount": "10",
+        "maxCartCount": "10",
+        "maxCartPrice": "2.599,00 €\nPoupe 20,00 € (Antes 279,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "11+",
+        "price": "total price\n188,17 €",
+        "minCount": "11",
+        "minCartCount": "11",
+        "minCartPrice": "2.748,90 €\nPoupe 30,00 € (Antes 279,90 €)",
+        "maxCount": "N/A",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": ""
+      }
+    ],
+    "Comment": null
+  },
+  {
+    "SKU": "SM-G990BZAWEUB",
+    "PDURL": "https://www.samsung.com/pt/business/smartphones/galaxy-s/galaxy-s21-fe-5g-sm-g990bzaweub/buy/",
+    "Stock": "addToCart",
+    "Include": [
+      {
+        "range": "1-2",
+        "price": "total price\n699,90 €",
+        "minCount": "1",
+        "minCartCount": "1",
+        "minCartPrice": "699,90 €\nPoupe 150,01 € (Antes 849,91 €)",
+        "maxCount": "2",
+        "maxCartCount": "2",
+        "maxCartPrice": "1.399,80 €\nPoupe 150,01 € (Antes 849,91 €)",
+        "comment": ""
+      },
+      {
+        "range": "3-10",
+        "price": "total price\n729,90 €",
+        "minCount": "3",
+        "minCartCount": "3",
+        "minCartPrice": "2.099,70 €\nPoupe 150,01 € (Antes 849,91 €)",
+        "maxCount": "10",
+        "maxCartCount": "10",
+        "maxCartPrice": "6.999,00 €\nPoupe 150,01 € (Antes 849,91 €)",
+        "comment": ""
+      },
+      {
+        "range": "11+",
+        "price": "total price\n659,90 €",
+        "minCount": "11",
+        "minCartCount": "11",
+        "minCartPrice": "7.258,90 €\nPoupe 190,01 € (Antes 849,91 €)",
+        "maxCount": "N/A",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": ""
+      }
+    ],
+    "Exclude": [
+      {
+        "range": "1-2",
+        "price": "total price\n554,02 €",
+        "minCount": "1",
+        "minCartCount": "1",
+        "minCartPrice": "699,90 €\nPoupe 150,01 € (Antes 849,91 €)",
+        "maxCount": "2",
+        "maxCartCount": "2",
+        "maxCartPrice": "1.399,80 €\nPoupe 150,01 € (Antes 849,91 €)",
+        "comment": ""
+      },
+      {
+        "range": "3-10",
+        "price": "total price\n578,41 €",
+        "minCount": "3",
+        "minCartCount": "3",
+        "minCartPrice": "2.099,70 €\nPoupe 150,01 € (Antes 849,91 €)",
+        "maxCount": "10",
+        "maxCartCount": "10",
+        "maxCartPrice": "6.999,00 €\nPoupe 150,01 € (Antes 849,91 €)",
+        "comment": ""
+      },
+      {
+        "range": "11+",
+        "price": "total price\n521,50 €",
+        "minCount": "11",
+        "minCartCount": "11",
+        "minCartPrice": "7.258,90 €\nPoupe 190,01 € (Antes 849,91 €)",
+        "maxCount": "N/A",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": ""
+      }
+    ],
+    "Comment": null
+  },
+  {
+    "SKU": "SM-F711BZKBEUB",
+    "PDURL": "https://www.samsung.com/pt/business/smartphones/galaxy-z/galaxy-z-flip3-sm-f711bzkbeub/buy/",
+    "Stock": "addToCart",
+    "Include": [
+      {
+        "range": "1-2",
+        "price": "total price\n829,90 €",
+        "minCount": "1",
+        "minCartCount": "1",
+        "minCartPrice": "829,90 €\nPoupe 270,00 € (Antes 1.099,90 €)",
+        "maxCount": "2",
+        "maxCartCount": "2",
+        "maxCartPrice": "1.659,80 €\nPoupe 270,00 € (Antes 1.099,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "3-10",
+        "price": "total price\n869,90 €",
+        "minCount": "3",
+        "minCartCount": "3",
+        "minCartPrice": "2.489,70 €\nPoupe 270,00 € (Antes 1.099,90 €)",
+        "maxCount": "10",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "max: lowStock:7 "
+      },
+      {
+        "range": "11+",
+        "price": "total price\n779,90 €",
+        "minCount": "11",
+        "minCartCount": "",
+        "minCartPrice": "",
+        "maxCount": "N/A",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "min: lowStock:7 "
+      }
+    ],
+    "Exclude": [
+      {
+        "range": "1-2",
+        "price": "total price\n659,72 €",
+        "minCount": "1",
+        "minCartCount": "1",
+        "minCartPrice": "829,90 €\nPoupe 270,00 € (Antes 1.099,90 €)",
+        "maxCount": "2",
+        "maxCartCount": "2",
+        "maxCartPrice": "1.659,80 €\nPoupe 270,00 € (Antes 1.099,90 €)",
+        "comment": ""
+      },
+      {
+        "range": "3-10",
+        "price": "total price\n692,24 €",
+        "minCount": "3",
+        "minCartCount": "3",
+        "minCartPrice": "2.489,70 €\nPoupe 270,00 € (Antes 1.099,90 €)",
+        "maxCount": "10",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "max: lowStock:7 "
+      },
+      {
+        "range": "11+",
+        "price": "total price\n619,07 €",
+        "minCount": "11",
+        "minCartCount": "",
+        "minCartPrice": "",
+        "maxCount": "N/A",
+        "maxCartCount": "",
+        "maxCartPrice": "",
+        "comment": "min: lowStock:7 "
+      }
+    ],
+    "Comment": null
+  }
+]

@@ -1,0 +1,956 @@
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:40 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:41 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:42 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:57:42 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:58:52 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:58:52 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:58:52 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:58:52 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:58:52 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:58:52 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:58:52 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:58:52 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:58:52 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:58:52 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:13 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:13 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:13 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:13 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:13 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:16 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:16 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:16 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:16 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:16 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:16 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:16 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:16 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:16 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:16 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:16 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:17 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:17 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:17 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:17 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:17 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:17 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:17 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:18 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:18 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:18 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:18 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:18 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:18 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:18 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:18 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:18 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:19 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:19 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:19 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:19 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:19 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:19 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:19 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:20 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:20 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:20 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:20 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:20 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:20 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:20 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:20 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:20 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:20 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 12:59:20 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:55 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:56 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:57 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:57 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:57 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:57 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:57 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:57 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:18:57 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:25 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:25 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:25 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:25 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:25 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:26 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:26:27 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:49 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:49 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:49 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:49 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:49 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:49 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:49 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:49 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:49 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:49 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:49 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:49 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:49 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:50 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:51 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:52 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:52 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:52 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:52 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:52 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:52 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:52 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:52 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:52 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:52 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:52 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:52 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:52 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:53 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:53 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:53 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:53 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:53 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:53 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:53 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:53 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:53 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:53 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:53 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:53 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:53 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:54 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:54 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:54 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:54 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:54 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:54 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:54 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:30:54 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:15 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:16 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:34:16 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:21 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:21 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:21 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:21 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:21 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:21 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:21 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:22 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:22 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:22 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:22 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:22 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:22 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:22 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:22 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:22 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:22 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:22 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:22 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:22 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:22 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:22 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:22 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:23 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:24 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:25 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:25 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:25 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:25 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:25 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:25 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:25 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:56:25 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:00 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:02 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:39 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:39 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:39 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 13:59:39 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:27 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:28 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:28 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:28 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:28 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:28 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:59 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:59 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:59 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:59 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:59 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:59 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:59 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:59 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:59 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:59 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:59 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:59 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:59 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:59 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:59 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:02:59 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:00 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:00 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:00 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:00 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:00 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:01 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:01 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:01 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:01 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:02 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:02 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:02 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:02 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:02 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:02 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:02 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:02 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:02 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:03 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:03 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G998BZKHMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:03 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:03 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:03 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:03 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:03 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:04 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:04 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:04 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:04 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:04 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:04 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:04 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:04 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:04 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:05 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:05 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-F711BLIEMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:05 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:05 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:06 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:06 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:06 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:06 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:06 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:06 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:06 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:06 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:06 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:07 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:07 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:07 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:07 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:07 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G986BLBIKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:08 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:08 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:08 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:08 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:08 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:09 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:09 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:09 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:09 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:09 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:09 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:09 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:09 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:09 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:10 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:03:10 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-A530FZKGKSA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:12 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:12 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:13 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:13 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:13 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:13 info: Retry Get Json [Retry: 2] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:13 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:13 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:13 info: Retry Get Json [Retry: 3] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:13 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:13 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:13 info: Retry Get Json [Retry: 4] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:13 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:13 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:14 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:14 error: Cannot Save API Data : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-S908EDRDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:14 info: Retry Get Json [Retry: 1] : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:08:14 error: Get Json error : https://s3-smi-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/sasme/products/SM-G991BZVDMEA/**?fields=SIMPLE_INFO&lang=en_SA
+2022-09-23 14:26:13 error: Fetch error [Retry: 1] : 
+2022-09-23 14:26:13 error: Fetch error [Retry: 1] : 
+2022-09-23 14:30:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=pl&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 14:30:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=pl&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 14:30:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=pl&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 14:30:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=pl&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 14:30:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=pl&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 14:30:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=pl&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 14:30:32 error: Cannot Save API Data : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=pl&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 14:30:32 info: Retry Get Json [Retry: 1] : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=pl&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 14:30:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=pl&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 14:30:32 info: Retry Get Json [Retry: 2] : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=pl&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 14:30:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=pl&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 14:30:32 info: Retry Get Json [Retry: 3] : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=pl&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 14:30:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=pl&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 14:30:32 info: Retry Get Json [Retry: 4] : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=pl&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 14:30:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=pl&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 14:30:32 error: Cannot Save API Data : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=07040000&siteCode=pl&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 15:58:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=sg&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 15:58:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=sg&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 15:58:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=sg&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 15:58:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=sg&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 15:58:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=sg&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 15:58:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=sg&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 15:58:32 error: Cannot Save API Data : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=sg&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 15:58:32 info: Retry Get Json [Retry: 1] : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=sg&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 15:58:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=sg&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 15:58:32 info: Retry Get Json [Retry: 2] : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=sg&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 15:58:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=sg&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 15:58:32 info: Retry Get Json [Retry: 3] : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=sg&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 15:58:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=sg&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 15:58:32 info: Retry Get Json [Retry: 4] : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=sg&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 15:58:32 error: Get Json error : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=sg&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 15:58:32 error: Cannot Save API Data : https://searchapi-preqa2.samsung.com/v6/front/b2b/product/finder?type=01020000&siteCode=sg&start=1&num=12&sort=newest&onlyFilterInfoYN=N&keySummaryYN=Y&shopType=b2bhybris
+2022-09-23 16:14:59 error: Get Json error : https://s3-smn3-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/plsme/products/SM-F711BZKBEUE/**?fields=SIMPLE_INFO
+2022-09-23 16:14:59 error: Get Json error : https://s3-smn3-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/plsme/products/SM-F711BZKBEUE/**?fields=SIMPLE_INFO
+2022-09-23 16:14:59 info: Retry Get Json [Retry: 1] : https://s3-smn3-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/plsme/products/SM-F711BZKBEUE/**?fields=SIMPLE_INFO
+2022-09-23 16:14:59 error: Get Json error : https://s3-smn3-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/plsme/products/SM-F711BZKBEUE/**?fields=SIMPLE_INFO
+2022-09-23 16:14:59 error: Get Json error : https://s3-smn3-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/plsme/products/SM-F711BZKBEUE/**?fields=SIMPLE_INFO
+2022-09-23 16:14:59 info: Retry Get Json [Retry: 2] : https://s3-smn3-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/plsme/products/SM-F711BZKBEUE/**?fields=SIMPLE_INFO
+2022-09-23 16:14:59 error: Get Json error : https://s3-smn3-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/plsme/products/SM-F711BZKBEUE/**?fields=SIMPLE_INFO
+2022-09-23 16:14:59 error: Get Json error : https://s3-smn3-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/plsme/products/SM-F711BZKBEUE/**?fields=SIMPLE_INFO
+2022-09-23 16:14:59 info: Retry Get Json [Retry: 3] : https://s3-smn3-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/plsme/products/SM-F711BZKBEUE/**?fields=SIMPLE_INFO
+2022-09-23 16:14:59 error: Get Json error : https://s3-smn3-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/plsme/products/SM-F711BZKBEUE/**?fields=SIMPLE_INFO
+2022-09-23 16:14:59 error: Get Json error : https://s3-smn3-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/plsme/products/SM-F711BZKBEUE/**?fields=SIMPLE_INFO
+2022-09-23 16:14:59 info: Retry Get Json [Retry: 4] : https://s3-smn3-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/plsme/products/SM-F711BZKBEUE/**?fields=SIMPLE_INFO
+2022-09-23 16:14:59 error: Get Json error : https://s3-smn3-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/plsme/products/SM-F711BZKBEUE/**?fields=SIMPLE_INFO
+2022-09-23 16:14:59 error: Get Json error : https://s3-smn3-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/plsme/products/SM-F711BZKBEUE/**?fields=SIMPLE_INFO
+2022-09-23 16:14:59 error: Cannot Save API Data : https://s3-smn3-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/plsme/products/SM-F711BZKBEUE/**?fields=SIMPLE_INFO
+2022-09-23 16:14:59 error: Cannot Save API Data : https://s3-smn3-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/plsme/products/SM-F711BZKBEUE/**?fields=SIMPLE_INFO

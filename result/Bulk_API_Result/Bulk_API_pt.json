@@ -1,0 +1,127 @@
+[
+  {
+    "sitecode": "pt",
+    "bulkModelCode": "QE98QN90AATXXC",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "14.999,99 €",
+    "bulkGuestPrice": "14.999,99 €",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "pt",
+    "bulkModelCode": "SM-F711BZKBEUB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "829,90 €",
+    "bulkSMBPrice": "1.099,90 €",
+    "bulkGuestPrice": "1.099,90 €",
+    "bulkTiered": "1-2/3-10/11",
+    "bulkTieredPrice": "829,90 €/869,90 €/779,90 €"
+  },
+  {
+    "sitecode": "pt",
+    "bulkModelCode": "ET-SHR88SREGEU",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "49,90 €",
+    "bulkGuestPrice": "49,90 €",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "pt",
+    "bulkModelCode": "SM-G990BZAWEUB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "699,90 €",
+    "bulkSMBPrice": "849,91 €",
+    "bulkGuestPrice": "849,91 €",
+    "bulkTiered": "1-2/3-10/11",
+    "bulkTieredPrice": "699,90 €/729,90 €/659,90 €"
+  },
+  {
+    "sitecode": "pt",
+    "bulkModelCode": "EF-QS906CTEGWW",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "19,90 €",
+    "bulkGuestPrice": "19,90 €",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "pt",
+    "bulkModelCode": "DV90BBA245AWEP",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "958,99 €",
+    "bulkGuestPrice": "958,99 €",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "pt",
+    "bulkModelCode": "SM-A136BLBUEUB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "229,90 €",
+    "bulkSMBPrice": "249,90 €",
+    "bulkGuestPrice": "249,90 €",
+    "bulkTiered": "1-2/3-10/11",
+    "bulkTieredPrice": "229,90 €/239,90 €/219,90 €"
+  },
+  {
+    "sitecode": "pt",
+    "bulkModelCode": "SM-A136BLBVEUB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "259,90 €",
+    "bulkSMBPrice": "279,90 €",
+    "bulkGuestPrice": "279,90 €",
+    "bulkTiered": "1-2/3-10/11",
+    "bulkTieredPrice": "259,90 €/279,90 €/249,90 €"
+  },
+  {
+    "sitecode": "pt",
+    "bulkModelCode": "SM-A136BZKUEUB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "229,90 €",
+    "bulkSMBPrice": "249,90 €",
+    "bulkGuestPrice": "249,90 €",
+    "bulkTiered": "1-2/3-10/11",
+    "bulkTieredPrice": "229,90 €/239,90 €/219,90 €"
+  },
+  {
+    "sitecode": "pt",
+    "bulkModelCode": "SM-A136BZKVEUB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "259,90 €",
+    "bulkSMBPrice": "279,90 €",
+    "bulkGuestPrice": "279,90 €",
+    "bulkTiered": "1-2/3-10/11",
+    "bulkTieredPrice": "259,90 €/279,90 €/249,90 €"
+  },
+  {
+    "sitecode": "pt",
+    "bulkModelCode": "SM-A136BZWUEUB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "229,90 €",
+    "bulkSMBPrice": "249,90 €",
+    "bulkGuestPrice": "249,90 €",
+    "bulkTiered": "1-2/3-10/11",
+    "bulkTieredPrice": "229,90 €/239,90 €/219,90 €"
+  },
+  {
+    "sitecode": "pt",
+    "bulkModelCode": "SM-A136BZWVEUB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "259,90 €",
+    "bulkSMBPrice": "279,90 €",
+    "bulkGuestPrice": "279,90 €",
+    "bulkTiered": "1-2/3-10/11",
+    "bulkTieredPrice": "259,90 €/279,90 €/249,90 €"
+  },
+  {
+    "sitecode": "pt",
+    "bulkModelCode": "RB33B610EBN/EF",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "699,00 €",
+    "bulkGuestPrice": "699,00 €",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  }
+]

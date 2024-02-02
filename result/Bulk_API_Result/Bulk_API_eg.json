@@ -1,0 +1,502 @@
+[
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-F700FZKDEGY",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "23,070.00 ج.م",
+    "bulkSMBPrice": "23,999.00 ج.م",
+    "bulkGuestPrice": "23,070.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "23,070.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-F700FZPDEGY",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "23,070.00 ج.م",
+    "bulkSMBPrice": "23,999.00 ج.م",
+    "bulkGuestPrice": "23,070.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "23,070.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-N985FZK3EGY",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "26,410.00 ج.م",
+    "bulkSMBPrice": "28,540.00 ج.م",
+    "bulkGuestPrice": "26,410.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "26,410.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-N985FZN3EGY",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "26,410.00 ج.م",
+    "bulkSMBPrice": "28,540.00 ج.م",
+    "bulkGuestPrice": "26,410.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "26,410.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-R180NZKAMEA",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "2,950.00 ج.م",
+    "bulkGuestPrice": "2,950.00 ج.م",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "EF-PG99PTBEGWW",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "1,500.00 ج.م",
+    "bulkGuestPrice": "1,500.00 ج.م",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A725FZBGMEB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "10,260.00 ج.م",
+    "bulkSMBPrice": "10,880.00 ج.م",
+    "bulkGuestPrice": "10,260.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "10,260.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A725FZKGMEB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "10,260.00 ج.م",
+    "bulkSMBPrice": "10,880.00 ج.م",
+    "bulkGuestPrice": "10,260.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "10,260.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A725FZKHMEB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "11,000.00 ج.م",
+    "bulkSMBPrice": "11,770.00 ج.م",
+    "bulkGuestPrice": "11,000.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "11,000.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A725FZWGMEB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "10,260.00 ج.م",
+    "bulkSMBPrice": "10,880.00 ج.م",
+    "bulkGuestPrice": "10,260.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "10,260.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A725FZWHMEB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "11,000.00 ج.م",
+    "bulkSMBPrice": "11,770.00 ج.م",
+    "bulkGuestPrice": "11,000.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "11,000.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A525FLVHMEB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "7,980.00 ج.م",
+    "bulkSMBPrice": "8,460.00 ج.م",
+    "bulkGuestPrice": "7,980.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "7,980.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A525FLVIMEB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "7,980.00 ج.م",
+    "bulkSMBPrice": "9,460.00 ج.م",
+    "bulkGuestPrice": "7,980.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "7,980.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A525FZBHMEB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "7,980.00 ج.م",
+    "bulkSMBPrice": "8,460.00 ج.م",
+    "bulkGuestPrice": "7,980.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "7,980.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A525FZBIMEB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "8,930.00 ج.م",
+    "bulkSMBPrice": "9,460.00 ج.م",
+    "bulkGuestPrice": "8,930.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "8,930.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A525FZKHMEB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "7,980.00 ج.م",
+    "bulkSMBPrice": "8,460.00 ج.م",
+    "bulkGuestPrice": "7,980.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "7,980.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A525FZKIMEB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "8,930.00 ج.م",
+    "bulkSMBPrice": "9,460.00 ج.م",
+    "bulkGuestPrice": "8,930.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "8,930.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A525FZWIMEB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "8,930.00 ج.م",
+    "bulkSMBPrice": "9,460.00 ج.م",
+    "bulkGuestPrice": "8,930.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "8,930.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-R870NZGAMEA",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "6,350.00 ج.م",
+    "bulkGuestPrice": "6,350.00 ج.م",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-R870NZKAMEA",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "6,350.00 ج.م",
+    "bulkGuestPrice": "6,350.00 ج.م",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-R870NZSAMEA",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "6,350.00 ج.م",
+    "bulkGuestPrice": "6,350.00 ج.م",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-R890NZKAMEA",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "9,175.00 ج.م",
+    "bulkGuestPrice": "9,175.00 ج.م",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-R177NZWAMEA",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "3,250.00 ج.م",
+    "bulkGuestPrice": "3,250.00 ج.م",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-F926BZGDMEA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "43,210.00 ج.م",
+    "bulkSMBPrice": "46,690.00 ج.م",
+    "bulkGuestPrice": "43,210.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "43,210.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-F711BZEEMEA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "25,000.00 ج.م",
+    "bulkSMBPrice": "27,410.00 ج.م",
+    "bulkGuestPrice": "25,000.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "25,000.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-F711BZGEMEA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "25,000.00 ج.م",
+    "bulkSMBPrice": "27,410.00 ج.م",
+    "bulkGuestPrice": "25,000.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "25,000.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "EF-VF711LBEGEG",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "1,500.00 ج.م",
+    "bulkSMBPrice": "1,715.00 ج.م",
+    "bulkGuestPrice": "1,500.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "1,500.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-G990ELGIMEA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "17,610.00 ج.م",
+    "bulkSMBPrice": "19,020.00 ج.م",
+    "bulkGuestPrice": "17,610.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "17,610.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-G990EZWIMEA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "17,610.00 ج.م",
+    "bulkSMBPrice": "19,020.00 ج.م",
+    "bulkGuestPrice": "17,610.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "17,610.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-S906EZGGMEA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "26,130.00 ج.م",
+    "bulkSMBPrice": "28,220.00 ج.م",
+    "bulkGuestPrice": "26,130.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "26,130.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-S906EZKGMEA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "26,130.00 ج.م",
+    "bulkSMBPrice": "28,220.00 ج.م",
+    "bulkGuestPrice": "26,130.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "26,130.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-S906EZWGMEA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "26,130.00 ج.م",
+    "bulkSMBPrice": "28,220.00 ج.م",
+    "bulkGuestPrice": "26,130.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "26,130.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-S908EZKGMEA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "33,270.00 ج.م",
+    "bulkSMBPrice": "35,930.00 ج.م",
+    "bulkGuestPrice": "33,270.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "33,270.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "EP-H5300CBEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "1,200.00 ج.م",
+    "bulkSMBPrice": "1,375.00 ج.م",
+    "bulkGuestPrice": "1,200.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "1,200.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "EF-PS901TBEGEG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "515.00 ج.م",
+    "bulkGuestPrice": "515.00 ج.م",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "EF-PS908TBEGEG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "515.00 ج.م",
+    "bulkGuestPrice": "515.00 ج.م",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "EF-ZS908CBEGEG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "1,010.00 ج.م",
+    "bulkGuestPrice": "1,010.00 ج.م",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-X706BZAAMEA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "21,100.00 ج.م",
+    "bulkSMBPrice": "22,790.00 ج.م",
+    "bulkGuestPrice": "21,100.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "21,100.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-X806BZAIMEA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "30,500.00 ج.م",
+    "bulkSMBPrice": "32,940.00 ج.م",
+    "bulkGuestPrice": "30,500.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "30,500.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-X806BZSIMEA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "30,500.00 ج.م",
+    "bulkSMBPrice": "32,940.00 ج.م",
+    "bulkGuestPrice": "30,500.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "30,500.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-X906BZAJMEA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "39,000.00 ج.م",
+    "bulkSMBPrice": "41,870.00 ج.م",
+    "bulkGuestPrice": "39,000.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "39,000.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "EP-P5400TWEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "1,600.00 ج.م",
+    "bulkSMBPrice": "1,715.00 ج.م",
+    "bulkGuestPrice": "1,600.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "1,600.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A536EZKHMEA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "11,360.00 ج.م",
+    "bulkSMBPrice": "12,270.00 ج.م",
+    "bulkGuestPrice": "11,360.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "11,360.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "EF-GF721TBEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "1,300.00 ج.م",
+    "bulkSMBPrice": "1,500.00 ج.م",
+    "bulkGuestPrice": "1,300.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "1,300.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "EF-OF93PCBEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "2,000.00 ج.م",
+    "bulkSMBPrice": "3,000.00 ج.م",
+    "bulkGuestPrice": "2,000.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "2,000.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A035FZBDMEB",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "2,790.00 ج.م",
+    "bulkSMBPrice": "3,020.00 ج.م",
+    "bulkGuestPrice": "2,790.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "2,790.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A035FZBGMEB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "3,230.00 ج.م",
+    "bulkSMBPrice": "3,490.00 ج.م",
+    "bulkGuestPrice": "3,230.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "3,230.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A035FZBHMEB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "3,560.00 ج.م",
+    "bulkSMBPrice": "3,850.00 ج.م",
+    "bulkGuestPrice": "3,560.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "3,560.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A035FZKDMEB",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "2,530.00 ج.م",
+    "bulkSMBPrice": "2,730.00 ج.م",
+    "bulkGuestPrice": "2,530.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "2,530.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A035FZKGMEB",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "3,230.00 ج.م",
+    "bulkSMBPrice": "3,490.00 ج.م",
+    "bulkGuestPrice": "3,230.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "3,230.00 ج.م"
+  },
+  {
+    "sitecode": "eg",
+    "bulkModelCode": "SM-A035FZKHMEB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "3,560.00 ج.م",
+    "bulkSMBPrice": "3,850.00 ج.م",
+    "bulkGuestPrice": "3,560.00 ج.م",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "3,560.00 ج.م"
+  }
+]
