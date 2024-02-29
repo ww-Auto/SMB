@@ -1,0 +1,31 @@
+[
+  {
+    "sitecode": "hk",
+    "bulkModelCode": "NP550XED-KA2HK",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "HK$8,200.00",
+    "bulkSMBPrice": "HK$8,280.00",
+    "bulkGuestPrice": "HK$8,200.00",
+    "bulkTiered": "1-7/8-14/15",
+    "bulkTieredPrice": "HK$8,200.00/HK$8,100.00/HK$8,000.00"
+  },
+  {
+    "sitecode": "hk",
+    "bulkModelCode": "SM-A3460LGCTGY",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "HK$2,900.00",
+    "bulkSMBPrice": "HK$2,998.00",
+    "bulkGuestPrice": "HK$2,900.00",
+    "bulkTiered": "1-3/4-6/7",
+    "bulkTieredPrice": "HK$2,900.00/HK$2,800.00/HK$2,700.00"
+  },
+  {
+    "sitecode": "hk",
+    "bulkModelCode": "HG75Q60AAAJXZK",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "HK$9,900.00",
+    "bulkGuestPrice": "HK$9,900.00",
+    "bulkTiered": "1-9/10-19/20",
+    "bulkTieredPrice": "HK$9,900.00/HK$9,800.00/HK$9,700.00"
+  }
+]

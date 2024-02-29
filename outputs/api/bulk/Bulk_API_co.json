@@ -1,0 +1,6216 @@
+[
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN32T4300AKXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 854.905",
+    "bulkSMBPrice": "$ 899.899",
+    "bulkGuestPrice": "$ 899.899",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 854.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN40T5290AKXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.044.905",
+    "bulkSMBPrice": "$ 1.099.900",
+    "bulkGuestPrice": "$ 1.099.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.044.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN43T5300AKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.399.901",
+    "bulkGuestPrice": "$ 1.399.901",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN43BU8000KXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.799.900",
+    "bulkGuestPrice": "$ 1.799.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN50BU8000KXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.299.900",
+    "bulkGuestPrice": "$ 2.299.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN50BU8200KXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.299.900",
+    "bulkGuestPrice": "$ 2.299.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN55BU8000KXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.599.900",
+    "bulkGuestPrice": "$ 2.599.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN55BU8200KXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.599.900",
+    "bulkGuestPrice": "$ 2.599.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN60BU8000KXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.799.900",
+    "bulkGuestPrice": "$ 2.799.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN65BU8000KXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.999.900",
+    "bulkGuestPrice": "$ 2.999.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN65BU8200KXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.199.900",
+    "bulkGuestPrice": "$ 3.199.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN70BU8000KXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.999.901",
+    "bulkGuestPrice": "$ 3.999.901",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN75BU8000KXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 4.199.900",
+    "bulkGuestPrice": "$ 4.199.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN85BU8000KXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 6.499.900",
+    "bulkGuestPrice": "$ 6.499.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN43QN90BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.599.900",
+    "bulkGuestPrice": "$ 3.599.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN50QN90BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.899.900",
+    "bulkGuestPrice": "$ 3.899.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN55QN90BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 4.999.900",
+    "bulkGuestPrice": "$ 4.999.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN75QN90BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 10.999.899",
+    "bulkGuestPrice": "$ 10.999.899",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN55QN85BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 4.799.900",
+    "bulkGuestPrice": "$ 4.799.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN65QN85BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 6.799.900",
+    "bulkGuestPrice": "$ 6.799.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN85QN85BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 14.899.900",
+    "bulkGuestPrice": "$ 14.899.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN55QN700BKXZL",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 5.999.900",
+    "bulkGuestPrice": "$ 5.999.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN65QN800BKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 9.999.900",
+    "bulkGuestPrice": "$ 9.999.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN75QN800BKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 17.999.900",
+    "bulkGuestPrice": "$ 17.999.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN85QN800BKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 21.999.900",
+    "bulkGuestPrice": "$ 21.999.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN43Q65BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.899.900",
+    "bulkGuestPrice": "$ 1.899.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN50Q65BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.599.900",
+    "bulkGuestPrice": "$ 2.599.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN55Q65BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.799.900",
+    "bulkGuestPrice": "$ 2.799.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN60Q65BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.399.900",
+    "bulkGuestPrice": "$ 3.399.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN65Q65BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.699.900",
+    "bulkGuestPrice": "$ 3.699.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN75Q65BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 4.699.900",
+    "bulkGuestPrice": "$ 4.699.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN85Q65BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 7.599.900",
+    "bulkGuestPrice": "$ 7.599.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN50Q60BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.499.900",
+    "bulkGuestPrice": "$ 2.499.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN55Q60BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.699.901",
+    "bulkGuestPrice": "$ 2.699.901",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN65Q80BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 4.599.900",
+    "bulkGuestPrice": "$ 4.599.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN65Q90TDKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.299.900",
+    "bulkGuestPrice": "$ 3.299.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SP-LSP7TKAXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 11.999.901",
+    "bulkGuestPrice": "$ 11.999.901",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN43LS05BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.999.901",
+    "bulkGuestPrice": "$ 3.999.901",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN43LS05BBKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.849.900",
+    "bulkGuestPrice": "$ 3.849.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN55LS01BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 4.599.900",
+    "bulkGuestPrice": "$ 4.599.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN32LS03BBKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.099.900",
+    "bulkGuestPrice": "$ 2.099.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN50LS03BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.599.900",
+    "bulkGuestPrice": "$ 3.599.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN55LS03BAKXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.799.905",
+    "bulkSMBPrice": "$ 3.999.901",
+    "bulkGuestPrice": "$ 3.999.901",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 3.799.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN65LS03BAKXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 4.749.905",
+    "bulkSMBPrice": "$ 4.999.900",
+    "bulkGuestPrice": "$ 4.999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.749.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN75LS03BAKXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 6.079.905",
+    "bulkSMBPrice": "$ 6.799.900",
+    "bulkGuestPrice": "$ 6.799.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 6.079.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN65LST7TAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 12.999.900",
+    "bulkGuestPrice": "$ 12.999.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-FBB3BA/ZX",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 474.905",
+    "bulkSMBPrice": "$ 499.900",
+    "bulkGuestPrice": "$ 499.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 474.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA75BEBRU",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 399.900",
+    "bulkGuestPrice": "$ 399.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA50TKBRU",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 28.405",
+    "bulkSMBPrice": "$ 289.899",
+    "bulkGuestPrice": "$ 289.899",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 28.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA55BWBRU",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 123.405",
+    "bulkSMBPrice": "$ 299.900",
+    "bulkGuestPrice": "$ 299.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 123.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA55TRCRU",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 123.405",
+    "bulkSMBPrice": "$ 299.900",
+    "bulkGuestPrice": "$ 299.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 123.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA65BWBRU",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 123.405",
+    "bulkSMBPrice": "$ 379.900",
+    "bulkGuestPrice": "$ 379.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 123.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA65TKBRU",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 123.405",
+    "bulkSMBPrice": "$ 379.900",
+    "bulkGuestPrice": "$ 379.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 123.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA75WTBRU",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 123.405",
+    "bulkSMBPrice": "$ 399.900",
+    "bulkGuestPrice": "$ 399.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 123.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCLB00NR/ZX",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 79.900",
+    "bulkGuestPrice": "$ 79.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCLB00PR/ZX",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 79.900",
+    "bulkGuestPrice": "$ 79.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HW-B450/ZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 699.900",
+    "bulkGuestPrice": "$ 699.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HW-Q930B/ZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.499.899",
+    "bulkGuestPrice": "$ 3.499.899",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RL4034SBABS/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 4.099.900",
+    "bulkSMBPrice": "$ 4.350.899",
+    "bulkGuestPrice": "$ 4.350.899",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 4.099.900/$ 4.017.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RS27T5200B1/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 6.599.900",
+    "bulkSMBPrice": "$ 6.824.900",
+    "bulkGuestPrice": "$ 6.824.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 6.599.900/$ 6.467.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RS27T5200S9/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 6.499.900",
+    "bulkSMBPrice": "$ 6.719.900",
+    "bulkGuestPrice": "$ 6.719.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 6.499.900/$ 6.369.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RS27T5561B1/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 9.299.900",
+    "bulkSMBPrice": "$ 9.951.900",
+    "bulkGuestPrice": "$ 9.951.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 9.299.900/$ 9.113.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RT29K571JS8/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.149.900",
+    "bulkSMBPrice": "$ 2.241.901",
+    "bulkGuestPrice": "$ 2.241.901",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.149.900/$ 2.106.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RT32K571JS8/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.199.900",
+    "bulkSMBPrice": "$ 2.386.900",
+    "bulkGuestPrice": "$ 2.386.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.199.900/$ 2.155.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RT35K5930S8/CL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.419.900",
+    "bulkSMBPrice": "$ 2.670.900",
+    "bulkGuestPrice": "$ 2.670.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.419.900/$ 2.371.502"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RT38K5992BS/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.199.900",
+    "bulkSMBPrice": "$ 3.286.900",
+    "bulkGuestPrice": "$ 3.286.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.199.900/$ 3.135.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WF22R6270AC/CO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.799.900",
+    "bulkSMBPrice": "$ 4.399.900",
+    "bulkGuestPrice": "$ 4.399.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.799.900/$ 2.743.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WF22R6270AP/CO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.799.900",
+    "bulkSMBPrice": "$ 4.299.900",
+    "bulkGuestPrice": "$ 4.299.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.799.900/$ 2.743.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "DVG22R6270W/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.199.900",
+    "bulkSMBPrice": "$ 3.213.900",
+    "bulkGuestPrice": "$ 3.213.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.199.900/$ 3.135.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WF22R6270AW/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.549.900",
+    "bulkSMBPrice": "$ 3.899.900",
+    "bulkGuestPrice": "$ 3.899.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.549.900/$ 3.478.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WF20T6000AW/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.199.900",
+    "bulkSMBPrice": "$ 3.519.900",
+    "bulkGuestPrice": "$ 3.519.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.199.900/$ 3.135.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WA19T7G6DWY/CO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.843.233",
+    "bulkSMBPrice": "$ 2.161.900",
+    "bulkGuestPrice": "$ 2.161.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 1.843.233/$ 1.806.369"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "DW80R5061UG/AA",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.699.900",
+    "bulkSMBPrice": "$ 4.069.900",
+    "bulkGuestPrice": "$ 4.069.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.699.900/$ 2.645.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "DW80R5061US/AA",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.599.900",
+    "bulkSMBPrice": "$ 3.829.900",
+    "bulkGuestPrice": "$ 3.829.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.599.900/$ 2.547.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RS22T5200B1/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 6.299.900",
+    "bulkSMBPrice": "$ 6.509.900",
+    "bulkGuestPrice": "$ 6.509.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 6.299.900/$ 6.173.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RS22T5200S9/CO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 4.799.900",
+    "bulkSMBPrice": "$ 6.404.900",
+    "bulkGuestPrice": "$ 6.404.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 4.799.900/$ 4.703.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RS23T5B00S9/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 4.199.900",
+    "bulkSMBPrice": "$ 4.461.900",
+    "bulkGuestPrice": "$ 4.461.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 4.199.900/$ 4.115.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "DVG21A3200Y/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.999.900",
+    "bulkSMBPrice": "$ 2.459.900",
+    "bulkGuestPrice": "$ 2.459.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 1.999.900/$ 1.959.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "DVG24A8870V/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.299.900",
+    "bulkSMBPrice": "$ 3.699.900",
+    "bulkGuestPrice": "$ 3.699.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.299.900/$ 3.233.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WW11J4473PX/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.499.900",
+    "bulkSMBPrice": "$ 2.699.901",
+    "bulkGuestPrice": "$ 2.699.901",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.499.900/$ 2.449.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RF71A967541/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 13.499.900",
+    "bulkSMBPrice": "$ 14.363.900",
+    "bulkGuestPrice": "$ 14.363.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 13.499.900/$ 13.229.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WD16T6000GP/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.791.567",
+    "bulkSMBPrice": "$ 4.127.901",
+    "bulkGuestPrice": "$ 4.127.901",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.791.567/$ 3.715.735"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-F18DBB12GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 299.900",
+    "bulkGuestPrice": "$ 299.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 299.900/$ 293.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-F18DBB18GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 299.900",
+    "bulkGuestPrice": "$ 299.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 299.900/$ 293.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-F18DBB31GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 299.900",
+    "bulkGuestPrice": "$ 299.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 299.900/$ 293.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-F18DBB39GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 299.900",
+    "bulkGuestPrice": "$ 299.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 299.900/$ 293.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-F18DBBC0GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 299.900",
+    "bulkGuestPrice": "$ 299.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 299.900/$ 293.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-F18DUU12GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 299.900",
+    "bulkGuestPrice": "$ 299.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 299.900/$ 293.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-F18DUU18GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 299.900",
+    "bulkGuestPrice": "$ 299.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 299.900/$ 293.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-F18DUU31GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 299.900",
+    "bulkGuestPrice": "$ 299.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 299.900/$ 293.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-F18DUU39GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 299.900",
+    "bulkGuestPrice": "$ 299.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 299.900/$ 293.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-F18DUUC0GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 299.900",
+    "bulkGuestPrice": "$ 299.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 299.900/$ 293.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-R23DAA31GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 599.900",
+    "bulkGuestPrice": "$ 599.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 599.900/$ 587.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-R23DAA39GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 599.900",
+    "bulkGuestPrice": "$ 599.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 599.900/$ 587.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RB30J3700SA/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.099.900",
+    "bulkSMBPrice": "$ 3.171.900",
+    "bulkGuestPrice": "$ 3.171.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.099.900/$ 3.037.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S908EZKULTC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 6.499.920",
+    "bulkGuestPrice": "$ 6.499.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 6.499.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S908EDRKLTC",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 6.149.920",
+    "bulkGuestPrice": "$ 6.149.920",
+    "bulkTiered": "1-3/4-6/7-9/10",
+    "bulkTieredPrice": "$ 6.149.920/$ 6.000.000/$ 5.900.000/$ 5.800.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S908EZKKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 4.999.920",
+    "bulkSMBPrice": "$ 6.149.920",
+    "bulkGuestPrice": "$ 6.149.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S908EZWKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 4.999.920",
+    "bulkSMBPrice": "$ 6.149.920",
+    "bulkGuestPrice": "$ 6.149.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S901ELVKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 3.899.920",
+    "bulkSMBPrice": "$ 4.149.900",
+    "bulkGuestPrice": "$ 4.149.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 3.899.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S901EZGKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 3.599.920",
+    "bulkSMBPrice": "$ 4.149.920",
+    "bulkGuestPrice": "$ 4.149.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 3.599.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S901EZKKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 3.599.920",
+    "bulkSMBPrice": "$ 4.149.920",
+    "bulkGuestPrice": "$ 4.149.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 3.599.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-G990ELGKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.299.920",
+    "bulkSMBPrice": "$ 3.499.920",
+    "bulkGuestPrice": "$ 3.499.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.299.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-G990ELVKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.299.920",
+    "bulkSMBPrice": "$ 3.499.920",
+    "bulkGuestPrice": "$ 3.499.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.299.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-G990EZAKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.299.920",
+    "bulkSMBPrice": "$ 3.499.920",
+    "bulkGuestPrice": "$ 3.499.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.299.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-G990ELVJLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.999.920",
+    "bulkSMBPrice": "$ 3.499.920",
+    "bulkGuestPrice": "$ 3.499.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-G781BLVJLTC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.499.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-G781BZGJLTC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.499.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A536ELBDLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.899.920",
+    "bulkSMBPrice": "$ 2.399.919",
+    "bulkGuestPrice": "$ 2.399.919",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.899.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A536EZKDLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.899.920",
+    "bulkSMBPrice": "$ 2.399.919",
+    "bulkGuestPrice": "$ 2.399.919",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.899.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A536EZODLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.899.920",
+    "bulkSMBPrice": "$ 2.399.919",
+    "bulkGuestPrice": "$ 2.399.919",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.899.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A336MLBGLTC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.599.920",
+    "bulkGuestPrice": "$ 1.599.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.599.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A336MZKGLTC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.599.920",
+    "bulkGuestPrice": "$ 1.599.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.599.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A325MZBKLTC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.099.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A325MZKKLTC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.099.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A226BLGILTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 933.000",
+    "bulkSMBPrice": "$ 1.399.920",
+    "bulkGuestPrice": "$ 1.399.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 933.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A226BZAILTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 933.000",
+    "bulkSMBPrice": "$ 1.399.920",
+    "bulkGuestPrice": "$ 1.399.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 933.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A225MZKGLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 797.900",
+    "bulkSMBPrice": "$ 1.299.920",
+    "bulkGuestPrice": "$ 1.299.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 797.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A225MZKDLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 797.900",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 797.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A135MLBJLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 749.900",
+    "bulkSMBPrice": "$ 924.303",
+    "bulkGuestPrice": "$ 924.303",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 749.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A135MZKJLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 749.900",
+    "bulkSMBPrice": "$ 924.303",
+    "bulkGuestPrice": "$ 924.303",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 749.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A135MLBGLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 649.900",
+    "bulkSMBPrice": "$ 840.269",
+    "bulkGuestPrice": "$ 840.269",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 649.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A135MZKGLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 649.900",
+    "bulkSMBPrice": "$ 840.269",
+    "bulkGuestPrice": "$ 840.269",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 649.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A037MZBGLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 599.900",
+    "bulkSMBPrice": "$ 665.900",
+    "bulkGuestPrice": "$ 665.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 599.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A037MZKGLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 599.900",
+    "bulkSMBPrice": "$ 665.900",
+    "bulkGuestPrice": "$ 665.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 599.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A032MCKDLTC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 399.900",
+    "bulkGuestPrice": "$ 399.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 399.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A032MLGDLTC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 399.900",
+    "bulkGuestPrice": "$ 399.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 399.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-M325FZKJCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 835.900",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 835.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X900NZAVCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 5.999.920",
+    "bulkSMBPrice": "$ 6.599.899",
+    "bulkGuestPrice": "$ 6.599.899",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 5.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X800NZAVCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 4.999.920",
+    "bulkSMBPrice": "$ 5.599.900",
+    "bulkGuestPrice": "$ 5.599.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X700NZAVCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 3.999.920",
+    "bulkSMBPrice": "$ 4.999.000",
+    "bulkGuestPrice": "$ 4.999.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 3.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-T733NLGVCOO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.999.900",
+    "bulkGuestPrice": "$ 2.999.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-T733NZKVCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.899.920",
+    "bulkSMBPrice": "$ 3.599.900",
+    "bulkGuestPrice": "$ 3.599.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.899.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-T733NZSVCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.899.920",
+    "bulkSMBPrice": "$ 3.599.900",
+    "bulkGuestPrice": "$ 3.599.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.899.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-P613NZAUCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.499.920",
+    "bulkSMBPrice": "$ 1.999.900",
+    "bulkGuestPrice": "$ 1.999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.499.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-P613NZILCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.499.920",
+    "bulkSMBPrice": "$ 1.999.900",
+    "bulkGuestPrice": "$ 1.999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.499.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X205NZSGCOO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.399.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X205NZSMCOO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.299.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X200NZSGCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 799.900",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 799.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X200NZAMCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 699.900",
+    "bulkSMBPrice": "$ 899.900",
+    "bulkGuestPrice": "$ 899.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 699.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X200NZSMCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 699.900",
+    "bulkSMBPrice": "$ 899.900",
+    "bulkGuestPrice": "$ 899.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 699.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X200NZALCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 699.900",
+    "bulkSMBPrice": "$ 899.900",
+    "bulkGuestPrice": "$ 899.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 699.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X200NZSLCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 699.900",
+    "bulkSMBPrice": "$ 899.900",
+    "bulkGuestPrice": "$ 899.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 699.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-T225NZSACOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 699.900",
+    "bulkSMBPrice": "$ 799.900",
+    "bulkGuestPrice": "$ 799.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 699.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-T220NZAFCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 699.900",
+    "bulkSMBPrice": "$ 799.900",
+    "bulkGuestPrice": "$ 799.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 699.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-T220NZSFCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 699.900",
+    "bulkSMBPrice": "$ 799.900",
+    "bulkGuestPrice": "$ 799.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 699.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-T220NZAACOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 599.900",
+    "bulkSMBPrice": "$ 699.900",
+    "bulkGuestPrice": "$ 699.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 599.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-T220NZSACOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 599.900",
+    "bulkSMBPrice": "$ 699.900",
+    "bulkGuestPrice": "$ 699.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 599.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R860NZDALTA",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 899.900",
+    "bulkSMBPrice": "$ 999.900",
+    "bulkGuestPrice": "$ 999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 899.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R860NZKALTA",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 899.900",
+    "bulkSMBPrice": "$ 999.900",
+    "bulkGuestPrice": "$ 999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 899.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R177NLVALTA",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 399.900",
+    "bulkSMBPrice": "$ 499.900",
+    "bulkGuestPrice": "$ 499.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 399.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R177NZKALTA",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 399.900",
+    "bulkSMBPrice": "$ 499.900",
+    "bulkGuestPrice": "$ 499.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 399.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "GP-OAU019SABBW",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 129.900",
+    "bulkGuestPrice": "$ 129.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 130.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PF711TVEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 139.920",
+    "bulkSMBPrice": "$ 140.000",
+    "bulkGuestPrice": "$ 140.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 139.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-ZS906CBEGEW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 89.960",
+    "bulkSMBPrice": "$ 180.001",
+    "bulkGuestPrice": "$ 180.001",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 89.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-ZS906CEEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 89.960",
+    "bulkSMBPrice": "$ 180.001",
+    "bulkGuestPrice": "$ 180.001",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 89.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-ZS901CEEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 89.960",
+    "bulkSMBPrice": "$ 180.001",
+    "bulkGuestPrice": "$ 180.001",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 89.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-RS906CNEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 74.960",
+    "bulkSMBPrice": "$ 150.000",
+    "bulkGuestPrice": "$ 150.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 74.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-RS901CNEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 74.960",
+    "bulkSMBPrice": "$ 150.000",
+    "bulkGuestPrice": "$ 150.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 74.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-QS908CTEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 34.960",
+    "bulkSMBPrice": "$ 70.001",
+    "bulkGuestPrice": "$ 70.001",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 34.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-QS906CTEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 34.960",
+    "bulkSMBPrice": "$ 70.001",
+    "bulkGuestPrice": "$ 70.001",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 34.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-QS901CTEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 34.960",
+    "bulkSMBPrice": "$ 70.001",
+    "bulkGuestPrice": "$ 70.001",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 34.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS908TBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 49.960",
+    "bulkSMBPrice": "$ 100.000",
+    "bulkGuestPrice": "$ 100.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 49.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS906TBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 49.960",
+    "bulkSMBPrice": "$ 100.000",
+    "bulkGuestPrice": "$ 100.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 49.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS906TGEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 49.960",
+    "bulkSMBPrice": "$ 100.000",
+    "bulkGuestPrice": "$ 100.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 49.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS906TLEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 49.960",
+    "bulkSMBPrice": "$ 100.000",
+    "bulkGuestPrice": "$ 100.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 49.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS906TPEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 49.960",
+    "bulkSMBPrice": "$ 100.000",
+    "bulkGuestPrice": "$ 100.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 49.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS906TYEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 49.960",
+    "bulkSMBPrice": "$ 100.000",
+    "bulkGuestPrice": "$ 100.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 49.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS901TBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 49.960",
+    "bulkSMBPrice": "$ 100.000",
+    "bulkGuestPrice": "$ 100.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 49.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS901TGEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 49.960",
+    "bulkSMBPrice": "$ 100.000",
+    "bulkGuestPrice": "$ 100.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 49.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS901TLEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 49.960",
+    "bulkSMBPrice": "$ 100.000",
+    "bulkGuestPrice": "$ 100.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 49.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS901TPEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 49.960",
+    "bulkSMBPrice": "$ 100.000",
+    "bulkGuestPrice": "$ 100.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 49.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS901TYEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 49.960",
+    "bulkSMBPrice": "$ 100.000",
+    "bulkGuestPrice": "$ 100.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 49.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-MS906CNEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 44.960",
+    "bulkSMBPrice": "$ 90.000",
+    "bulkGuestPrice": "$ 90.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 44.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-MS906CTEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 44.960",
+    "bulkSMBPrice": "$ 90.000",
+    "bulkGuestPrice": "$ 90.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 44.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-MS901CNEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 44.960",
+    "bulkSMBPrice": "$ 90.000",
+    "bulkGuestPrice": "$ 90.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 44.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-MS901CTEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 44.960",
+    "bulkSMBPrice": "$ 90.000",
+    "bulkGuestPrice": "$ 90.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 44.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-GS908TNEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 79.960",
+    "bulkSMBPrice": "$ 160.000",
+    "bulkGuestPrice": "$ 160.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 79.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-GS906TNEGWW",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 160.000",
+    "bulkGuestPrice": "$ 160.000",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EJ-PS908BBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 135.000",
+    "bulkSMBPrice": "$ 269.900",
+    "bulkGuestPrice": "$ 269.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 135.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EJ-PS908BGEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 135.000",
+    "bulkSMBPrice": "$ 269.900",
+    "bulkGuestPrice": "$ 269.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 135.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EJ-PS908BQEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 135.000",
+    "bulkSMBPrice": "$ 269.900",
+    "bulkGuestPrice": "$ 269.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 135.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EJ-P5450SBEGWW",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 699.900",
+    "bulkGuestPrice": "$ 699.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 700.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EI-T5300BBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 79.920",
+    "bulkSMBPrice": "$ 80.000",
+    "bulkGuestPrice": "$ 80.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 79.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EI-T7300BBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 129.920",
+    "bulkSMBPrice": "$ 130.000",
+    "bulkGuestPrice": "$ 130.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 129.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EP-DN975BBEGWW",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 89.900",
+    "bulkGuestPrice": "$ 89.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 92.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EP-H5300CBEGWW",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 389.900",
+    "bulkGuestPrice": "$ 389.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 392.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EP-P5400BBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 379.900",
+    "bulkGuestPrice": "$ 379.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 380.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EP-TA800NBEGMX",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 94.900",
+    "bulkGuestPrice": "$ 94.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 95.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EP-DX310JBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 88.000",
+    "bulkSMBPrice": "$ 89.900",
+    "bulkGuestPrice": "$ 89.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 88.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EP-L4020NBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 169.900",
+    "bulkGuestPrice": "$ 169.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 170.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EP-P2400BBEGWW",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 215.901",
+    "bulkGuestPrice": "$ 215.901",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 216.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EP-T1510XBEGCA",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 96.901",
+    "bulkGuestPrice": "$ 96.901",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 97.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EP-T6530NBEGCA",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 322.901",
+    "bulkGuestPrice": "$ 322.901",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 323.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EP-T4510XBEGCA",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 241.900",
+    "bulkGuestPrice": "$ 241.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 242.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "ET-SHR88SAEGWW",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 217.000",
+    "bulkGuestPrice": "$ 217.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 270.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-QT220TTEGWW",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 126.000",
+    "bulkGuestPrice": "$ 126.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 126.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-VF721LBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 243.000",
+    "bulkSMBPrice": "$ 486.000",
+    "bulkGuestPrice": "$ 486.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 243.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-VF936LBEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 218.000",
+    "bulkSMBPrice": "$ 436.001",
+    "bulkGuestPrice": "$ 436.001",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 218.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-F936BZAJLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 7.399.920",
+    "bulkSMBPrice": "$ 8.399.920",
+    "bulkGuestPrice": "$ 8.399.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 7.399.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-F936BZEJLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 7.399.920",
+    "bulkSMBPrice": "$ 8.399.920",
+    "bulkGuestPrice": "$ 8.399.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 7.399.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-F936BZKJLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 7.399.920",
+    "bulkSMBPrice": "$ 8.399.920",
+    "bulkGuestPrice": "$ 8.399.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 7.399.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-F721BZAJLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 4.499.920",
+    "bulkSMBPrice": "$ 4.999.919",
+    "bulkGuestPrice": "$ 4.999.919",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.499.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S908EZKJLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 5.499.920",
+    "bulkSMBPrice": "$ 5.499.921",
+    "bulkGuestPrice": "$ 5.499.921",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 5.499.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-DT970BBSGES",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 217.000",
+    "bulkSMBPrice": "$ 699.900",
+    "bulkGuestPrice": "$ 699.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 217.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-DT870BBSGES",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 217.000",
+    "bulkSMBPrice": "$ 599.900",
+    "bulkGuestPrice": "$ 599.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 217.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R900NZAALTA",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 899.900",
+    "bulkSMBPrice": "$ 1.199.900",
+    "bulkGuestPrice": "$ 1.199.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 899.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R900NZDALTA",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 899.900",
+    "bulkSMBPrice": "$ 1.199.900",
+    "bulkGuestPrice": "$ 1.199.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 899.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R900NZSALTA",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 899.900",
+    "bulkSMBPrice": "$ 1.199.900",
+    "bulkGuestPrice": "$ 1.199.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 899.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R510NZAALTA",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 849.900",
+    "bulkGuestPrice": "$ 849.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 849.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R510NZWALTA",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 849.900",
+    "bulkGuestPrice": "$ 849.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 849.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-F721BLBKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 4.699.920",
+    "bulkSMBPrice": "$ 5.299.920",
+    "bulkGuestPrice": "$ 5.299.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.699.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-F721BLVKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 4.699.920",
+    "bulkSMBPrice": "$ 5.299.920",
+    "bulkGuestPrice": "$ 5.299.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.699.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-F721BZAKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 4.699.920",
+    "bulkSMBPrice": "$ 5.299.920",
+    "bulkGuestPrice": "$ 5.299.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.699.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-F721BZDKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 4.699.920",
+    "bulkSMBPrice": "$ 5.299.920",
+    "bulkGuestPrice": "$ 5.299.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.699.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-F936BZKKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 7.999.920",
+    "bulkSMBPrice": "$ 8.999.920",
+    "bulkGuestPrice": "$ 8.999.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 7.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R910NZAALTA",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 999.900",
+    "bulkSMBPrice": "$ 1.299.900",
+    "bulkGuestPrice": "$ 1.299.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 999.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R910NZBALTA",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 999.900",
+    "bulkSMBPrice": "$ 1.299.900",
+    "bulkGuestPrice": "$ 1.299.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 999.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R910NZSALTA",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 999.900",
+    "bulkSMBPrice": "$ 1.299.900",
+    "bulkGuestPrice": "$ 1.299.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 999.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R920NZTALTA",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 1.899.900",
+    "bulkGuestPrice": "$ 1.899.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.899.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-OF93PCBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 243.000",
+    "bulkSMBPrice": "$ 486.000",
+    "bulkGuestPrice": "$ 486.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 243.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-MF936CBEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 135.000",
+    "bulkSMBPrice": "$ 270.000",
+    "bulkGuestPrice": "$ 270.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 135.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-GF936TBEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 135.000",
+    "bulkSMBPrice": "$ 270.000",
+    "bulkGuestPrice": "$ 270.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 135.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PF721TGEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 108.000",
+    "bulkSMBPrice": "$ 216.000",
+    "bulkGuestPrice": "$ 216.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 108.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PF721TPEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 108.000",
+    "bulkSMBPrice": "$ 216.000",
+    "bulkGuestPrice": "$ 216.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 108.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PF721TVEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 108.000",
+    "bulkSMBPrice": "$ 216.000",
+    "bulkGuestPrice": "$ 216.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 108.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-QF721CTEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 63.000",
+    "bulkSMBPrice": "$ 126.000",
+    "bulkGuestPrice": "$ 126.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 63.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-OF721CTEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 81.000",
+    "bulkSMBPrice": "$ 161.999",
+    "bulkGuestPrice": "$ 161.999",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 81.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RT25FARADS8/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.879.900",
+    "bulkSMBPrice": "$ 2.001.900",
+    "bulkGuestPrice": "$ 2.001.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 1.879.900/$ 1.842.302"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LC34G55TWWNXZA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.324.907",
+    "bulkSMBPrice": "$ 2.699.901",
+    "bulkGuestPrice": "$ 2.699.901",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.324.907"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS55BG970NNXGO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 13.949.907",
+    "bulkSMBPrice": "$ 22.312.381",
+    "bulkGuestPrice": "$ 22.312.381",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 13.949.907"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LC49G95TSSNXZA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 5.114.907",
+    "bulkSMBPrice": "$ 6.499.900",
+    "bulkGuestPrice": "$ 6.499.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 5.114.907"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AR24BVFCMWK/CB",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 4.339.900",
+    "bulkGuestPrice": "$ 4.339.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AR09TVFZAWK/CB",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.419.900",
+    "bulkGuestPrice": "$ 2.419.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AR12TVFZAWK/CB",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.629.900",
+    "bulkGuestPrice": "$ 2.629.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AR18TVFZAWK/CB",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.379.900",
+    "bulkGuestPrice": "$ 3.379.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AR24TVFZAWK/CB",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.979.900",
+    "bulkGuestPrice": "$ 3.979.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WA17T6260BV/CO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.916.567",
+    "bulkSMBPrice": "$ 2.152.900",
+    "bulkGuestPrice": "$ 2.152.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 1.916.567/$ 1.878.235"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WA17T6260BY/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.849.900",
+    "bulkSMBPrice": "$ 2.095.901",
+    "bulkGuestPrice": "$ 2.095.901",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 1.849.900/$ 1.812.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WA19T6260BY/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.150.000",
+    "bulkSMBPrice": "$ 2.161.900",
+    "bulkGuestPrice": "$ 2.161.900",
+    "bulkTiered": "1-3/4-6/7-8/9",
+    "bulkTieredPrice": "$ 2.150.000/$ 2.100.000/$ 2.000.000/$ 1.900.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WA90H4400SS1CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.499.900",
+    "bulkSMBPrice": "$ 1.629.900",
+    "bulkGuestPrice": "$ 1.629.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 1.499.900/$ 1.469.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WD20T6300GP/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 4.199.900",
+    "bulkSMBPrice": "$ 5.068.900",
+    "bulkGuestPrice": "$ 5.068.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 4.199.900/$ 4.115.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WD22T6500GP/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 4.899.900",
+    "bulkSMBPrice": "$ 5.291.900",
+    "bulkGuestPrice": "$ 5.291.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 4.899.900/$ 4.801.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WD22T6500GV/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 4.999.900",
+    "bulkSMBPrice": "$ 5.438.900",
+    "bulkGuestPrice": "$ 5.438.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 4.999.900/$ 4.899.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RB30N4160B1/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.199.900",
+    "bulkSMBPrice": "$ 3.326.900",
+    "bulkGuestPrice": "$ 3.326.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.199.900/$ 3.135.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RF28T5021B1/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 5.699.900",
+    "bulkSMBPrice": "$ 5.749.900",
+    "bulkGuestPrice": "$ 5.749.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 5.699.900/$ 5.585.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RF27T5201B1/CO",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 6.499.899",
+    "bulkGuestPrice": "$ 6.499.899",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 6.499.900/$ 6.369.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RF27T5501B1/CO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 8.999.900",
+    "bulkSMBPrice": "$ 12.329.901",
+    "bulkGuestPrice": "$ 12.329.901",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 8.999.900/$ 8.819.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RL4363SBABS/CL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 4.599.900",
+    "bulkSMBPrice": "$ 4.627.900",
+    "bulkGuestPrice": "$ 4.627.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 4.599.900/$ 4.507.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RL4363SBAS8/CL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 4.299.900",
+    "bulkSMBPrice": "$ 4.547.900",
+    "bulkGuestPrice": "$ 4.547.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 4.299.900/$ 4.213.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RT35K571JS9/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.399.900",
+    "bulkSMBPrice": "$ 2.557.900",
+    "bulkGuestPrice": "$ 2.557.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.399.900/$ 2.351.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RT38K571JS9/CO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.699.900",
+    "bulkSMBPrice": "$ 2.779.900",
+    "bulkGuestPrice": "$ 2.779.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.699.900/$ 2.645.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WA13T5260BV/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.599.900",
+    "bulkSMBPrice": "$ 2.034.900",
+    "bulkGuestPrice": "$ 2.034.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 1.599.900/$ 1.567.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WA13T5260BY/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.499.900",
+    "bulkSMBPrice": "$ 1.927.900",
+    "bulkGuestPrice": "$ 1.927.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 1.499.900/$ 1.469.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "DVG22R6270C/CO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.999.900",
+    "bulkSMBPrice": "$ 3.629.900",
+    "bulkGuestPrice": "$ 3.629.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 1.999.900/$ 1.959.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "DVG22R6270P/CO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.999.900",
+    "bulkSMBPrice": "$ 3.529.901",
+    "bulkGuestPrice": "$ 3.529.901",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 1.999.900/$ 1.959.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "DVG20T6000W/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.699.900",
+    "bulkSMBPrice": "$ 2.975.900",
+    "bulkGuestPrice": "$ 2.975.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.699.900/$ 2.645.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RS28A5000B1/CO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 4.299.900",
+    "bulkSMBPrice": "$ 5.459.900",
+    "bulkGuestPrice": "$ 5.459.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 4.299.900/$ 4.213.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RF71A9671SR/CO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 13.899.900",
+    "bulkGuestPrice": "$ 13.899.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 13.999.900/$ 13.719.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RF71A9771SG/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 15.499.900",
+    "bulkSMBPrice": "$ 16.479.899",
+    "bulkGuestPrice": "$ 16.479.899",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 15.499.900/$ 15.189.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RT22FARADS8/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.779.900",
+    "bulkSMBPrice": "$ 1.907.900",
+    "bulkGuestPrice": "$ 1.907.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 1.779.900/$ 1.744.302"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WD11T4046BX/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.999.900",
+    "bulkSMBPrice": "$ 3.189.900",
+    "bulkGuestPrice": "$ 3.189.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.999.900/$ 2.939.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WD12T754DBX/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.299.900",
+    "bulkSMBPrice": "$ 3.609.900",
+    "bulkGuestPrice": "$ 3.609.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.299.900/$ 3.233.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RF22A4220S9/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 5.799.900",
+    "bulkSMBPrice": "$ 5.983.900",
+    "bulkGuestPrice": "$ 5.983.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 5.799.900/$ 5.683.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RF22A4220SG/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 5.899.900",
+    "bulkSMBPrice": "$ 6.127.900",
+    "bulkGuestPrice": "$ 6.127.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 5.899.900/$ 5.781.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RT44A6320S9/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.999.900",
+    "bulkSMBPrice": "$ 3.176.900",
+    "bulkGuestPrice": "$ 3.176.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.999.900/$ 2.939.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RT48A6340B1/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.299.900",
+    "bulkSMBPrice": "$ 3.426.900",
+    "bulkGuestPrice": "$ 3.426.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.299.900/$ 3.233.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "DW80R2031UG/AA",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.174.900",
+    "bulkGuestPrice": "$ 3.174.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "DW80R2031US/AA",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.999.900",
+    "bulkGuestPrice": "$ 2.999.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WF25A8900AV/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 4.899.900",
+    "bulkSMBPrice": "$ 5.139.899",
+    "bulkGuestPrice": "$ 5.139.899",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 4.899.900/$ 4.801.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RZ32A744532/CO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 3.199.900",
+    "bulkSMBPrice": "$ 4.649.900",
+    "bulkGuestPrice": "$ 4.649.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.199.900/$ 3.135.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RZ32A744541/CO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 4.629.900",
+    "bulkGuestPrice": "$ 4.629.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 4.629.900/$ 4.537.302"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AR09BVFCMWK/CB",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.779.900",
+    "bulkGuestPrice": "$ 2.779.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AR12BVFCMWK/CB",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.989.900",
+    "bulkGuestPrice": "$ 2.989.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AR18BVFCMWK/CB",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.739.900",
+    "bulkGuestPrice": "$ 3.739.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SP-LSP3BLAXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.799.900",
+    "bulkGuestPrice": "$ 2.799.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HW-T400/ZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 349.900",
+    "bulkGuestPrice": "$ 349.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HW-B550/ZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 719.900",
+    "bulkGuestPrice": "$ 719.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HW-B650/ZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 997.405",
+    "bulkSMBPrice": "$ 1.149.901",
+    "bulkGuestPrice": "$ 1.149.901",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 997.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HW-S50B/ZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 799.900",
+    "bulkGuestPrice": "$ 799.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HW-S800B/ZL",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.614.905",
+    "bulkSMBPrice": "$ 1.799.900",
+    "bulkGuestPrice": "$ 1.799.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.614.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HW-Q600B/ZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.699.900",
+    "bulkGuestPrice": "$ 1.699.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HW-Q800B/ZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.499.900",
+    "bulkGuestPrice": "$ 2.499.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "MX-T40/ZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 569.905",
+    "bulkSMBPrice": "$ 649.899",
+    "bulkGuestPrice": "$ 649.899",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 569.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "MX-ST40B/ZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 999.900",
+    "bulkGuestPrice": "$ 999.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "MX-T50/ZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 854.905",
+    "bulkSMBPrice": "$ 949.900",
+    "bulkGuestPrice": "$ 949.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 854.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "MX-ST50B/ZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.199.900",
+    "bulkGuestPrice": "$ 1.199.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "MX-T70/ZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.329.905",
+    "bulkSMBPrice": "$ 1.449.900",
+    "bulkGuestPrice": "$ 1.449.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.329.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AGE83X/XAP",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 469.900",
+    "bulkSMBPrice": "$ 516.900",
+    "bulkGuestPrice": "$ 516.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 469.900/$ 460.502"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "MG32J5133AG/AP",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 559.900",
+    "bulkSMBPrice": "$ 629.900",
+    "bulkGuestPrice": "$ 629.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 559.900/$ 548.702"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "MG402MADXBB/AP",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 577.900",
+    "bulkSMBPrice": "$ 638.900",
+    "bulkGuestPrice": "$ 638.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 577.900/$ 566.342"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "MS23J5133AG/AP",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 429.067",
+    "bulkSMBPrice": "$ 479.900",
+    "bulkGuestPrice": "$ 479.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 429.067/$ 420.485"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "MS32J5133AG/AP",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 469.900",
+    "bulkSMBPrice": "$ 529.900",
+    "bulkGuestPrice": "$ 529.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 469.900/$ 460.502"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VR30T80313W/AA",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.699.901",
+    "bulkGuestPrice": "$ 2.699.901",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VR05R5050WK/AP",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.559.900",
+    "bulkSMBPrice": "$ 1.835.900",
+    "bulkGuestPrice": "$ 1.835.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 1.559.900/$ 1.528.702"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HAF-CIN/EXP",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 99.900",
+    "bulkSMBPrice": "$ 99.901",
+    "bulkGuestPrice": "$ 99.901",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 99.900/$ 97.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HAFEX/EXP",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 99.900",
+    "bulkSMBPrice": "$ 99.901",
+    "bulkGuestPrice": "$ 99.901",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 99.900/$ 97.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HAF-QIN/EXP",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 99.900",
+    "bulkSMBPrice": "$ 99.901",
+    "bulkGuestPrice": "$ 99.901",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 99.900/$ 97.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LC32G55TQWNXZA",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.983.334",
+    "bulkGuestPrice": "$ 1.983.334",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS24A600UCNXGO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.676.501",
+    "bulkGuestPrice": "$ 1.676.501",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS24AG320NLXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.099.900",
+    "bulkGuestPrice": "$ 1.099.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LC27R500FHLXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 734.607",
+    "bulkSMBPrice": "$ 787.500",
+    "bulkGuestPrice": "$ 787.500",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 734.607"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LC32R500FHLXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 929.907",
+    "bulkSMBPrice": "$ 1.784.881",
+    "bulkGuestPrice": "$ 1.784.881",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 929.907"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS34A650UXNXGO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.138.070",
+    "bulkSMBPrice": "$ 2.509.216",
+    "bulkGuestPrice": "$ 2.509.216",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.138.070"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LH43BEAHLGKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.249.900",
+    "bulkGuestPrice": "$ 2.249.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LF24T452FQNXGO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 641.607",
+    "bulkSMBPrice": "$ 845.250",
+    "bulkGuestPrice": "$ 845.250",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 641.607"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS27A600UUNXGO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.301.907",
+    "bulkSMBPrice": "$ 1.842.274",
+    "bulkGuestPrice": "$ 1.842.274",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.301.907"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS32A600UUNXGO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.394.907",
+    "bulkSMBPrice": "$ 2.203.819",
+    "bulkGuestPrice": "$ 2.203.819",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.394.907"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS27BG402ENXGO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.208.907",
+    "bulkSMBPrice": "$ 1.799.900",
+    "bulkGuestPrice": "$ 1.799.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.208.907"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS19A330NHLXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 284.487",
+    "bulkSMBPrice": "$ 429.580",
+    "bulkGuestPrice": "$ 429.580",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 284.487"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS22A33ANHLXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 586.908",
+    "bulkGuestPrice": "$ 586.908",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS32AG32ANLXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.000.787",
+    "bulkGuestPrice": "$ 2.000.787",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS27A700NWLXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.441.407",
+    "bulkSMBPrice": "$ 1.699.900",
+    "bulkGuestPrice": "$ 1.699.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.441.407"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A226BLVILTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 933.000",
+    "bulkSMBPrice": "$ 1.399.920",
+    "bulkGuestPrice": "$ 1.399.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 933.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-M135MLBGCOO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-M236BZGKCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 835.900",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 835.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-G781BZBJLTC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.499.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-G990EZAJLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.999.920",
+    "bulkSMBPrice": "$ 3.499.920",
+    "bulkGuestPrice": "$ 3.499.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-G990ELGJLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.999.920",
+    "bulkSMBPrice": "$ 3.499.920",
+    "bulkGuestPrice": "$ 3.499.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S908EDRULTC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 6.499.920",
+    "bulkGuestPrice": "$ 6.499.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 6.499.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S906EZGKLTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 994.945",
+    "bulkSMBPrice": "$ 5.149.920",
+    "bulkGuestPrice": "$ 5.149.920",
+    "bulkTiered": "1-4/5-7/8-9/10",
+    "bulkTieredPrice": "$ 994.945/$ 900.000/$ 800.000/$ 700.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S906EIDKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 3.299.920",
+    "bulkSMBPrice": "$ 5.149.920",
+    "bulkGuestPrice": "$ 5.149.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 3.299.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S901EIDKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 3.599.920",
+    "bulkSMBPrice": "$ 4.149.920",
+    "bulkGuestPrice": "$ 4.149.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 3.599.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S901EIDJLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 3.499.920",
+    "bulkSMBPrice": "$ 3.899.920",
+    "bulkGuestPrice": "$ 3.899.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 3.499.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X205NZAGCOO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.399.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X205NZAMCOO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.299.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-T225NZAFCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 829.900",
+    "bulkSMBPrice": "$ 899.900",
+    "bulkGuestPrice": "$ 899.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 829.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-T225NZAACOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 699.900",
+    "bulkSMBPrice": "$ 799.900",
+    "bulkGuestPrice": "$ 799.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 699.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-T636BZKLCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 3.499.920",
+    "bulkSMBPrice": "$ 3.999.901",
+    "bulkGuestPrice": "$ 3.999.901",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 3.499.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A525MZBGLTC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.399.901",
+    "bulkGuestPrice": "$ 1.399.901",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.899.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A525MZKGLTC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.399.901",
+    "bulkGuestPrice": "$ 1.399.901",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.899.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A135MZOJLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 749.900",
+    "bulkSMBPrice": "$ 924.303",
+    "bulkGuestPrice": "$ 924.303",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 749.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-M325FLBJCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 835.900",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 835.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PF711TNEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 139.920",
+    "bulkSMBPrice": "$ 140.000",
+    "bulkGuestPrice": "$ 140.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 139.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS908TVEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 49.960",
+    "bulkSMBPrice": "$ 100.000",
+    "bulkGuestPrice": "$ 100.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 49.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS908TEEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 49.960",
+    "bulkSMBPrice": "$ 100.000",
+    "bulkGuestPrice": "$ 100.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 49.960"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PG990TVEGWW",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 100.000",
+    "bulkGuestPrice": "$ 100.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 108.500"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-GF721TBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 108.000",
+    "bulkSMBPrice": "$ 216.000",
+    "bulkGuestPrice": "$ 216.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 108.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-GF721TWEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 108.000",
+    "bulkSMBPrice": "$ 216.000",
+    "bulkGuestPrice": "$ 216.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 108.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PF721TLEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 108.000",
+    "bulkSMBPrice": "$ 216.000",
+    "bulkGuestPrice": "$ 216.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 108.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PF721TNEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 108.000",
+    "bulkSMBPrice": "$ 216.000",
+    "bulkGuestPrice": "$ 216.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 108.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R890NZKALTA",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 699.900",
+    "bulkSMBPrice": "$ 1.399.920",
+    "bulkGuestPrice": "$ 1.399.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 699.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R177NZGALTA",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 399.900",
+    "bulkSMBPrice": "$ 499.900",
+    "bulkGuestPrice": "$ 499.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 399.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R920NZKALTA",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 1.899.900",
+    "bulkGuestPrice": "$ 1.899.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.899.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R510NLVALTA",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 849.900",
+    "bulkGuestPrice": "$ 849.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 849.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS32BM500ELXZL",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 1.299.900",
+    "bulkGuestPrice": "$ 1.299.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA50BEBRU",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 28.405",
+    "bulkSMBPrice": "$ 289.899",
+    "bulkGuestPrice": "$ 289.899",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 28.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA50BWBRU",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 28.405",
+    "bulkSMBPrice": "$ 289.899",
+    "bulkGuestPrice": "$ 289.899",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 28.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA50WTBRU",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 28.405",
+    "bulkSMBPrice": "$ 289.899",
+    "bulkGuestPrice": "$ 289.899",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 28.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA55BEBRU",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 123.405",
+    "bulkSMBPrice": "$ 289.990",
+    "bulkGuestPrice": "$ 289.990",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 123.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA55TKBRU",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 123.405",
+    "bulkSMBPrice": "$ 299.900",
+    "bulkGuestPrice": "$ 299.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 123.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA55WTBRU",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 123.405",
+    "bulkSMBPrice": "$ 299.900",
+    "bulkGuestPrice": "$ 299.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 123.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA55WTCRU",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 299.900",
+    "bulkGuestPrice": "$ 299.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA65BEBRU",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 379.900",
+    "bulkGuestPrice": "$ 379.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA65WTBRU",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 123.405",
+    "bulkSMBPrice": "$ 379.900",
+    "bulkGuestPrice": "$ 379.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 123.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA75BWBRU",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 399.900",
+    "bulkGuestPrice": "$ 399.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "VG-SCFA75TKBRU",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 123.405",
+    "bulkSMBPrice": "$ 399.900",
+    "bulkGuestPrice": "$ 399.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 123.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WA20B3553GY/CO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.199.900",
+    "bulkSMBPrice": "$ 2.529.900",
+    "bulkGuestPrice": "$ 2.529.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.199.900/$ 2.155.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WA22B3554GV/CO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.837.900",
+    "bulkGuestPrice": "$ 2.837.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WA21B3553GY/CO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.641.900",
+    "bulkGuestPrice": "$ 2.641.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RZ32A744512/CO",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 4.370.900",
+    "bulkGuestPrice": "$ 4.370.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 4.370.900/$ 4.283.482"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RB33A30708A/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 4.299.900",
+    "bulkSMBPrice": "$ 4.999.900",
+    "bulkGuestPrice": "$ 4.999.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 4.299.900/$ 4.213.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RT44A6320B1/CO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.899.900",
+    "bulkSMBPrice": "$ 3.226.900",
+    "bulkGuestPrice": "$ 3.226.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.899.900/$ 2.841.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "MG30T5018CP/CO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 719.900",
+    "bulkSMBPrice": "$ 854.900",
+    "bulkGuestPrice": "$ 854.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 719.900/$ 705.502"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "MG30T5018CW/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 719.900",
+    "bulkSMBPrice": "$ 854.900",
+    "bulkGuestPrice": "$ 854.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 719.900/$ 705.502"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "DW80BB707012AA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 4.099.900",
+    "bulkSMBPrice": "$ 4.511.900",
+    "bulkGuestPrice": "$ 4.511.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 4.099.900/$ 4.017.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS24A600NWNXGO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.443.866",
+    "bulkGuestPrice": "$ 1.443.866",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LF22T350FHLXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 884.250",
+    "bulkGuestPrice": "$ 884.250",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "DW50T6060UG/AA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.399.900",
+    "bulkSMBPrice": "$ 2.599.900",
+    "bulkGuestPrice": "$ 2.599.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.399.900/$ 2.351.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "DW50T6060US/AA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.159.900",
+    "bulkSMBPrice": "$ 2.399.900",
+    "bulkGuestPrice": "$ 2.399.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.159.900/$ 2.116.702"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-BT220PJEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 65.000",
+    "bulkSMBPrice": "$ 130.000",
+    "bulkGuestPrice": "$ 130.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 65.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-BX200PJEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 135.000",
+    "bulkSMBPrice": "$ 270.000",
+    "bulkGuestPrice": "$ 270.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 135.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-DX900BBSGES",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 999.900",
+    "bulkGuestPrice": "$ 999.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-RX200CBEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 150.000",
+    "bulkSMBPrice": "$ 300.000",
+    "bulkGuestPrice": "$ 300.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 150.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "GP-FPR177AMABW",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 110.000",
+    "bulkGuestPrice": "$ 110.000",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "GP-FPR177HIIYW",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 110.000",
+    "bulkGuestPrice": "$ 110.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 110.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LH55WMRWBGCXZA",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 10.029.900",
+    "bulkGuestPrice": "$ 10.029.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-F711BLVFCOO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 4.999.900",
+    "bulkGuestPrice": "$ 4.999.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R180NZTALTA",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 349.900",
+    "bulkSMBPrice": "$ 399.920",
+    "bulkGuestPrice": "$ 399.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 349.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LH75WMAWLGCXZA",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 13.226.795",
+    "bulkGuestPrice": "$ 13.226.795",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-F926BZKDCOO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.999.900",
+    "bulkGuestPrice": "$ 1.999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-F711BZKECOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.999.920",
+    "bulkSMBPrice": "$ 2.379.881",
+    "bulkGuestPrice": "$ 2.379.881",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LH43QMBTBGCXZA",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 12.161.644",
+    "bulkGuestPrice": "$ 12.161.644",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LH55QMBEBGCXGO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 5.454.378",
+    "bulkGuestPrice": "$ 5.454.378",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LH13QBRTBGCXZA",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.850.565",
+    "bulkGuestPrice": "$ 3.850.565",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LH24QBRTBGCXZA",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.248.165",
+    "bulkGuestPrice": "$ 3.248.165",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LH13QBREBGCXZA",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.723.148",
+    "bulkGuestPrice": "$ 2.723.148",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LH24QBREBGCXZA",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.798.844",
+    "bulkGuestPrice": "$ 1.798.844",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LH50QBBEBGCXGO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 4.495.825",
+    "bulkGuestPrice": "$ 4.495.825",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EP-TA800XBEGMX",
+    "bulkStock": "outOfStock"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-GG990TNEGWW",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 100.000",
+    "bulkGuestPrice": "$ 100.000",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-QF936CTEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 85.000",
+    "bulkSMBPrice": "$ 170.000",
+    "bulkGuestPrice": "$ 170.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 85.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "ET-SFR92LJEGWW",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 217.000",
+    "bulkGuestPrice": "$ 217.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 436.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WD18T6000GP/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.899.900",
+    "bulkSMBPrice": "$ 4.175.900",
+    "bulkGuestPrice": "$ 4.175.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.899.900/$ 3.821.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WD18T6000GV/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.999.900",
+    "bulkSMBPrice": "$ 4.271.900",
+    "bulkGuestPrice": "$ 4.271.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.999.900/$ 3.919.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WD20T6000GV/CO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 3.999.900",
+    "bulkSMBPrice": "$ 4.799.900",
+    "bulkGuestPrice": "$ 4.799.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.999.900/$ 3.919.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-QN75QN800BK",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 19.799.800",
+    "bulkGuestPrice": "$ 19.799.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S911BLIKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 4.099.920",
+    "bulkSMBPrice": "$ 4.899.920",
+    "bulkGuestPrice": "$ 4.899.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.099.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S911BZEKLTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 4.099.920",
+    "bulkSMBPrice": "$ 4.899.920",
+    "bulkGuestPrice": "$ 4.899.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.099.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S911BZGKLTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 4.099.920",
+    "bulkSMBPrice": "$ 4.899.920",
+    "bulkGuestPrice": "$ 4.899.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.099.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S911BZKJLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 3.899.920",
+    "bulkSMBPrice": "$ 4.599.920",
+    "bulkGuestPrice": "$ 4.599.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 3.899.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S911BZKKLTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 4.099.920",
+    "bulkSMBPrice": "$ 4.899.920",
+    "bulkGuestPrice": "$ 4.899.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.099.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S916BLIKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 4.999.920",
+    "bulkSMBPrice": "$ 6.199.920",
+    "bulkGuestPrice": "$ 6.199.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S916BZEKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 4.999.920",
+    "bulkSMBPrice": "$ 6.199.920",
+    "bulkGuestPrice": "$ 6.199.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S916BZGKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 4.999.920",
+    "bulkSMBPrice": "$ 6.199.920",
+    "bulkGuestPrice": "$ 6.199.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S916BZKJLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 4.599.920",
+    "bulkSMBPrice": "$ 5.599.920",
+    "bulkGuestPrice": "$ 5.599.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.599.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S916BZKKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 4.999.920",
+    "bulkSMBPrice": "$ 6.199.920",
+    "bulkGuestPrice": "$ 6.199.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 4.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S918BLIKLTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 6.099.920",
+    "bulkSMBPrice": "$ 6.999.920",
+    "bulkGuestPrice": "$ 6.999.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 6.099.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S918BZEKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 6.099.920",
+    "bulkSMBPrice": "$ 6.999.920",
+    "bulkGuestPrice": "$ 6.999.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 6.099.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S918BZGKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 6.099.920",
+    "bulkSMBPrice": "$ 6.999.920",
+    "bulkGuestPrice": "$ 6.999.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 6.099.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S918BZKKLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 6.099.920",
+    "bulkSMBPrice": "$ 6.999.920",
+    "bulkGuestPrice": "$ 6.999.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 6.099.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-GS911TBEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 173.600",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 173.600"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-GS916TBEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 173.600",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 173.600"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-GS918TBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 173.600",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 173.600"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-MS916CBEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 173.600",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 173.600"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-MS918CBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 173.600",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 173.600"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS911TGEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 104.000",
+    "bulkSMBPrice": "$ 129.900",
+    "bulkGuestPrice": "$ 129.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 104.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS911TNEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 104.000",
+    "bulkSMBPrice": "$ 129.900",
+    "bulkGuestPrice": "$ 129.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 104.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS911TVEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 104.000",
+    "bulkSMBPrice": "$ 129.900",
+    "bulkGuestPrice": "$ 129.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 104.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS916TGEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 104.000",
+    "bulkSMBPrice": "$ 129.900",
+    "bulkGuestPrice": "$ 129.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 104.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS916TNEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 104.000",
+    "bulkSMBPrice": "$ 129.900",
+    "bulkGuestPrice": "$ 129.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 104.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS916TVEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 104.000",
+    "bulkSMBPrice": "$ 129.900",
+    "bulkGuestPrice": "$ 129.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 104.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS918TGEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 104.000",
+    "bulkSMBPrice": "$ 129.900",
+    "bulkGuestPrice": "$ 129.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 104.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS918TNEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 104.000",
+    "bulkSMBPrice": "$ 129.900",
+    "bulkGuestPrice": "$ 129.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 104.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PS918TVEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 104.000",
+    "bulkSMBPrice": "$ 129.900",
+    "bulkGuestPrice": "$ 129.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 104.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-QS911CTEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 88.000",
+    "bulkSMBPrice": "$ 109.900",
+    "bulkGuestPrice": "$ 109.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 88.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-QS916CTEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 88.000",
+    "bulkSMBPrice": "$ 109.900",
+    "bulkGuestPrice": "$ 109.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 88.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-QS918CTEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 88.000",
+    "bulkSMBPrice": "$ 109.900",
+    "bulkGuestPrice": "$ 109.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 88.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-US911CTEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 64.800",
+    "bulkSMBPrice": "$ 80.900",
+    "bulkGuestPrice": "$ 80.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 64.800"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-US916CTEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 64.800",
+    "bulkSMBPrice": "$ 80.900",
+    "bulkGuestPrice": "$ 80.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 64.800"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-US918CTEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 64.800",
+    "bulkSMBPrice": "$ 80.900",
+    "bulkGuestPrice": "$ 80.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 64.800"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-XS911CTEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 200.000",
+    "bulkSMBPrice": "$ 249.900",
+    "bulkGuestPrice": "$ 249.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 200.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-XS916CTEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 200.000",
+    "bulkSMBPrice": "$ 249.900",
+    "bulkGuestPrice": "$ 249.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 200.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-XS918CTEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 200.000",
+    "bulkSMBPrice": "$ 249.900",
+    "bulkGuestPrice": "$ 249.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 200.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-ZS916CBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 173.600",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 173.600"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-ZS916CGEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 173.600",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 173.600"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-ZS918CBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 173.600",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 173.600"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-ZS918CGEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 173.600",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 173.600"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-QN65QN800BKXZL",
+    "bulkStock": "outOfStock"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SP-LSP3BLAX",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.849.800",
+    "bulkGuestPrice": "$ 3.849.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-UN55BU8200K",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.949.800",
+    "bulkGuestPrice": "$ 2.949.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EJ-M3400DSEGWW",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 173.600",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 173.600"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A047MZGHLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 499.900",
+    "bulkSMBPrice": "$ 999.900",
+    "bulkGuestPrice": "$ 999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 499.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A047MZKHLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 499.900",
+    "bulkSMBPrice": "$ 999.900",
+    "bulkGuestPrice": "$ 999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 499.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A042MLBDLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 399.900",
+    "bulkSMBPrice": "$ 569.900",
+    "bulkGuestPrice": "$ 569.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 399.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A042MZKDLTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 399.900",
+    "bulkSMBPrice": "$ 569.900",
+    "bulkGuestPrice": "$ 569.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 399.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A045MZGGLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 449.900",
+    "bulkSMBPrice": "$ 779.900",
+    "bulkGuestPrice": "$ 779.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 449.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A045MZKGLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 449.900",
+    "bulkSMBPrice": "$ 779.900",
+    "bulkGuestPrice": "$ 779.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 449.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "DVG24A8870W/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.099.900",
+    "bulkSMBPrice": "$ 3.455.900",
+    "bulkGuestPrice": "$ 3.455.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.099.900/$ 3.037.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WF25A8900AW/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 4.699.900",
+    "bulkSMBPrice": "$ 5.039.900",
+    "bulkGuestPrice": "$ 5.039.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 4.699.900/$ 4.605.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "GP-FPR177HIIGW",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 110.000",
+    "bulkGuestPrice": "$ 110.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 110.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "GP-FPR180HIBOW",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 110.000",
+    "bulkGuestPrice": "$ 110.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 110.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN55S95BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 5.999.900",
+    "bulkGuestPrice": "$ 5.999.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN65S95BAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 6.174.905",
+    "bulkSMBPrice": "$ 7.999.900",
+    "bulkGuestPrice": "$ 7.999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 6.174.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-QN65QN800CKX",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 12.699.800",
+    "bulkGuestPrice": "$ 12.699.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-QN65QN85BAKXZL",
+    "bulkStock": "outOfStock"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SP-LSP3BLAXZL",
+    "bulkStock": "outOfStock"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "DW-T24PNA41",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 399.900",
+    "bulkGuestPrice": "$ 399.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 399.900/$ 391.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-S918BLIKL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 7.599.900",
+    "bulkGuestPrice": "$ 7.599.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-S918BZEKL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 7.599.900",
+    "bulkGuestPrice": "$ 7.599.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-S918BZGKL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 7.599.900",
+    "bulkGuestPrice": "$ 7.599.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-S918BZKKL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 7.599.900",
+    "bulkGuestPrice": "$ 7.599.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A146MZKGLTC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 933.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-QN85QN85BAKX",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 17.399.800",
+    "bulkGuestPrice": "$ 17.399.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-QN55Q65BAKXZ",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 4.099.800",
+    "bulkGuestPrice": "$ 4.099.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-UN85BU8000KX",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 7.799.800",
+    "bulkGuestPrice": "$ 7.799.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-UN75BU8000KX",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 5.499.800",
+    "bulkGuestPrice": "$ 5.499.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-UN70BU8000KX",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 4.899.800",
+    "bulkGuestPrice": "$ 4.899.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-QN43QN90BAKX",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 4.399.800",
+    "bulkGuestPrice": "$ 4.399.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-QN85Q65BAKXZ",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 5.999.800",
+    "bulkGuestPrice": "$ 5.999.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-QN75Q65BAKXZ",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 5.999.800",
+    "bulkGuestPrice": "$ 5.999.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-QN75LS03BAKX",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 8.199.700",
+    "bulkGuestPrice": "$ 8.199.700",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-QN65LS03BAKX",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 6.979.700",
+    "bulkGuestPrice": "$ 6.979.700",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-QN55LS03BAKX",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.889.890",
+    "bulkGuestPrice": "$ 3.889.890",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-QN85QN800BKX",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 24.499.800",
+    "bulkGuestPrice": "$ 24.499.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-QN75QN800BK1",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 20.499.800",
+    "bulkGuestPrice": "$ 20.499.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-QN75QN90BAKX",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 12.699.800",
+    "bulkGuestPrice": "$ 12.699.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-QN55QN90BAK1",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 6.699.800",
+    "bulkGuestPrice": "$ 6.699.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-QN65Q65BAKXZ",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 5.399.800",
+    "bulkGuestPrice": "$ 5.399.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-G930FZDAXSA",
+    "bulkStock": "outOfStock"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "ET-SFR90SJEGWW",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 217.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "ET-SFR90SLEGWW",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 217.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "ET-SFR90SVEGWW",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 217.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "ET-SFR90SWEGWW",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 217.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "ET-SFR90SZEGWW",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 217.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "ET-STR90SJEGWW",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 217.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "ET-STR90SNEGWW",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 217.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S918BLIULTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 6.999.920",
+    "bulkSMBPrice": "$ 7.599.920",
+    "bulkGuestPrice": "$ 7.599.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 6.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S918BZEULTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 6.999.920",
+    "bulkSMBPrice": "$ 7.599.920",
+    "bulkGuestPrice": "$ 7.599.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 6.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S918BZGULTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 6.999.920",
+    "bulkSMBPrice": "$ 7.599.920",
+    "bulkGuestPrice": "$ 7.599.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 6.999.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A346MLGALTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.399.920",
+    "bulkSMBPrice": "$ 1.899.919",
+    "bulkGuestPrice": "$ 1.899.919",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.399.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A346MLVALTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.399.920",
+    "bulkSMBPrice": "$ 1.899.919",
+    "bulkGuestPrice": "$ 1.899.919",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.399.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A346MZKALTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.399.920",
+    "bulkSMBPrice": "$ 1.899.919",
+    "bulkGuestPrice": "$ 1.899.919",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.399.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A346MZSALTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.399.920",
+    "bulkSMBPrice": "$ 1.899.919",
+    "bulkGuestPrice": "$ 1.899.919",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.399.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A546ELGALTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.799.920",
+    "bulkSMBPrice": "$ 2.399.919",
+    "bulkGuestPrice": "$ 2.399.919",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.799.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A546EZKALTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.799.920",
+    "bulkSMBPrice": "$ 2.399.919",
+    "bulkGuestPrice": "$ 2.399.919",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.799.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A546EZWALTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.799.920",
+    "bulkSMBPrice": "$ 2.399.919",
+    "bulkGuestPrice": "$ 2.399.919",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.799.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-M146BDBVCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 699.900",
+    "bulkSMBPrice": "$ 899.900",
+    "bulkGuestPrice": "$ 899.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 699.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-M146BZBVCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 699.900",
+    "bulkSMBPrice": "$ 899.900",
+    "bulkGuestPrice": "$ 899.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 699.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-M146BZSVCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 699.900",
+    "bulkSMBPrice": "$ 899.900",
+    "bulkGuestPrice": "$ 899.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 699.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-M546BDBDCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.599.920",
+    "bulkSMBPrice": "$ 2.599.920",
+    "bulkGuestPrice": "$ 2.599.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.599.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-M546BZSDCOO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.599.920",
+    "bulkSMBPrice": "$ 2.599.920",
+    "bulkGuestPrice": "$ 2.599.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.599.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-QA546CTEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 68.000",
+    "bulkSMBPrice": "$ 84.901",
+    "bulkGuestPrice": "$ 84.901",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 68.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PA546TBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 104.000",
+    "bulkSMBPrice": "$ 129.900",
+    "bulkGuestPrice": "$ 129.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 104.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-PA546TVEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 104.000",
+    "bulkSMBPrice": "$ 129.900",
+    "bulkGuestPrice": "$ 129.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 104.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-OA346TBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 79.900",
+    "bulkGuestPrice": "$ 79.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 80.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-QA346CTEGWW",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 84.901",
+    "bulkGuestPrice": "$ 84.901",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 85.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-B23DUU18GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 399.900",
+    "bulkGuestPrice": "$ 399.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 399.900/$ 391.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-B23DUU31GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 399.900",
+    "bulkGuestPrice": "$ 399.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 399.900/$ 391.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-B23DUU39GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 399.900",
+    "bulkGuestPrice": "$ 399.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 399.900/$ 391.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-B23DUU41GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 399.900",
+    "bulkGuestPrice": "$ 399.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 399.900/$ 391.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-B23DUUP0GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 399.900",
+    "bulkGuestPrice": "$ 399.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 399.900/$ 391.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "WT75R2500HB/CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 849.900",
+    "bulkSMBPrice": "$ 911.901",
+    "bulkGuestPrice": "$ 911.901",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 849.900/$ 832.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RT44A6000S9/CO",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.999.900",
+    "bulkSMBPrice": "$ 3.006.900",
+    "bulkGuestPrice": "$ 3.006.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.999.900/$ 2.939.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-AC036MN4PKH/CB",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 8.494.880",
+    "bulkGuestPrice": "$ 8.494.880",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A145MLGGLTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 599.900",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 599.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A145MZKGLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 599.900",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 599.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A145MZSGLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 599.900",
+    "bulkSMBPrice": "$ 933.000",
+    "bulkGuestPrice": "$ 933.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 599.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-R920NZTA3",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.749.920",
+    "bulkGuestPrice": "$ 2.749.920",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-T733NZKV3",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 4.799.840",
+    "bulkGuestPrice": "$ 4.799.840",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-T733NZKVC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.899.900",
+    "bulkGuestPrice": "$ 3.899.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-T733NZSV3",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 4.799.840",
+    "bulkGuestPrice": "$ 4.799.840",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-T733NZSVC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.899.900",
+    "bulkGuestPrice": "$ 3.899.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-X900NZA01",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 7.499.880",
+    "bulkGuestPrice": "$ 7.499.880",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-X900NZAV1",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 6.799.920",
+    "bulkGuestPrice": "$ 6.799.920",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-X800NZA01",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 6.499.920",
+    "bulkGuestPrice": "$ 6.499.920",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-X800NZAV1",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 5.799.920",
+    "bulkGuestPrice": "$ 5.799.920",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-X700NZA01",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 5.499.920",
+    "bulkGuestPrice": "$ 5.499.920",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-X700NZAV1",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 4.799.920",
+    "bulkGuestPrice": "$ 4.799.920",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS22A336NHLXZL",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 390.507",
+    "bulkSMBPrice": "$ 481.271",
+    "bulkGuestPrice": "$ 481.271",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 390.507"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS32BM801UNXGO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.999.901",
+    "bulkGuestPrice": "$ 3.999.901",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-S918BZKILTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 7.599.920",
+    "bulkSMBPrice": "$ 7.999.920",
+    "bulkGuestPrice": "$ 7.999.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 7.599.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EP-OR900BBEGWW",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 216.900",
+    "bulkGuestPrice": "$ 216.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 217.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RS28CB700A12CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 7.199.900",
+    "bulkSMBPrice": "$ 7.499.900",
+    "bulkGuestPrice": "$ 7.499.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 7.199.900/$ 7.055.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RS28CB760A7GCO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 8.199.900",
+    "bulkSMBPrice": "$ 8.499.900",
+    "bulkGuestPrice": "$ 8.499.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 8.199.900/$ 8.035.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RS23CB70NA12CO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 5.499.900",
+    "bulkSMBPrice": "$ 6.269.901",
+    "bulkGuestPrice": "$ 6.269.901",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 5.499.900/$ 5.389.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS34BG850SNXZA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 5.579.907",
+    "bulkSMBPrice": "$ 6.999.900",
+    "bulkGuestPrice": "$ 6.999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 5.579.907"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-S918BZKIL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 9.999.900",
+    "bulkGuestPrice": "$ 9.999.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-M146BZBV1",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.832.900",
+    "bulkGuestPrice": "$ 1.832.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-M146BZBVC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.832.900",
+    "bulkGuestPrice": "$ 1.832.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-M146BZSV1",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.832.900",
+    "bulkGuestPrice": "$ 1.832.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-M146BZSVC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.832.900",
+    "bulkGuestPrice": "$ 1.832.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-M146BDBV1",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.832.900",
+    "bulkGuestPrice": "$ 1.832.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-M146BDBVC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.832.900",
+    "bulkGuestPrice": "$ 1.832.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "EF-RS918CBEGWW",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 216.000",
+    "bulkSMBPrice": "$ 269.900",
+    "bulkGuestPrice": "$ 269.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 216.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "ET-SDR90SJEGWW",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 217.000",
+    "bulkGuestPrice": "$ 217.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 270.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "ET-SFR86SEEGWW",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 217.000",
+    "bulkGuestPrice": "$ 217.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 217.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "ET-SFR86SGEGEU",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 217.000",
+    "bulkGuestPrice": "$ 217.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 217.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "ET-SFR86SMEGEU",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 217.000",
+    "bulkGuestPrice": "$ 217.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 217.000"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A245MZSULTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 699.900",
+    "bulkSMBPrice": "$ 1.030.000",
+    "bulkGuestPrice": "$ 1.030.000",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 699.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X706BZAWCOO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 6.199.900",
+    "bulkGuestPrice": "$ 6.199.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HG55BU800NFXZA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.443.668",
+    "bulkSMBPrice": "$ 3.288.654",
+    "bulkGuestPrice": "$ 3.288.654",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.443.668"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HG65BU800NFXZA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.679.612",
+    "bulkSMBPrice": "$ 4.951.970",
+    "bulkGuestPrice": "$ 4.951.970",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 3.679.612"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HG43BU800NFXZA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.963.415",
+    "bulkSMBPrice": "$ 2.640.860",
+    "bulkGuestPrice": "$ 2.640.860",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.963.415"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HG50BU800NFXZA",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.198.792",
+    "bulkSMBPrice": "$ 2.959.103",
+    "bulkGuestPrice": "$ 2.959.103",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.198.792"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A546ELVALTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.799.920",
+    "bulkSMBPrice": "$ 2.399.919",
+    "bulkGuestPrice": "$ 2.399.919",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.799.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A546ELVDLTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.099.920",
+    "bulkSMBPrice": "$ 2.599.920",
+    "bulkGuestPrice": "$ 2.599.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.099.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A546EZKDLTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.099.920",
+    "bulkSMBPrice": "$ 2.599.920",
+    "bulkGuestPrice": "$ 2.599.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.099.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A546EZWDLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.099.920",
+    "bulkSMBPrice": "$ 2.599.920",
+    "bulkGuestPrice": "$ 2.599.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.099.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A346MLVELTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.699.920",
+    "bulkSMBPrice": "$ 2.199.920",
+    "bulkGuestPrice": "$ 2.199.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.699.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A346MZSELTC",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.699.920",
+    "bulkSMBPrice": "$ 2.199.920",
+    "bulkGuestPrice": "$ 2.199.920",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.699.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AR09CVFCMWK/CB",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.499.900",
+    "bulkSMBPrice": "$ 2.799.900",
+    "bulkGuestPrice": "$ 2.799.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.499.900/$ 2.449.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AR12CVFCMWK/CB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.799.900",
+    "bulkSMBPrice": "$ 3.039.900",
+    "bulkGuestPrice": "$ 3.039.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.799.900/$ 2.743.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AR18CVFCMWK/CB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.499.900",
+    "bulkSMBPrice": "$ 3.729.900",
+    "bulkGuestPrice": "$ 3.729.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.499.900/$ 3.429.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AR24CVFCMWK/CB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 4.099.900",
+    "bulkSMBPrice": "$ 4.549.900",
+    "bulkGuestPrice": "$ 4.549.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 4.099.900/$ 4.017.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS43BM702UNXZA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.766.907",
+    "bulkSMBPrice": "$ 2.141.219",
+    "bulkGuestPrice": "$ 2.141.219",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.766.907"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS27AG552ENXZA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.274.007",
+    "bulkSMBPrice": "$ 1.799.900",
+    "bulkGuestPrice": "$ 1.799.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.274.007"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS34A650UBNXGO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.449.899",
+    "bulkGuestPrice": "$ 2.449.899",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS32BM80BUNXGO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.090.978",
+    "bulkGuestPrice": "$ 2.090.978",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.603.907"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN43QN90CAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.799.900",
+    "bulkGuestPrice": "$ 3.799.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN50QN90CAKXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.514.905",
+    "bulkSMBPrice": "$ 3.699.900",
+    "bulkGuestPrice": "$ 3.699.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 3.514.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN55QN85CAKXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.419.905",
+    "bulkSMBPrice": "$ 4.299.900",
+    "bulkGuestPrice": "$ 4.299.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 3.419.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN65QN85CAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 5.699.905",
+    "bulkSMBPrice": "$ 7.099.901",
+    "bulkGuestPrice": "$ 7.099.901",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 5.699.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN65QN800CKXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 8.549.905",
+    "bulkSMBPrice": "$ 10.999.899",
+    "bulkGuestPrice": "$ 10.999.899",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 8.549.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN85QN85CAKXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 14.249.905",
+    "bulkSMBPrice": "$ 14.999.900",
+    "bulkGuestPrice": "$ 14.999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 14.249.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN85QN800CKXZL",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 19.284.905",
+    "bulkSMBPrice": "$ 24.999.900",
+    "bulkGuestPrice": "$ 24.999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 19.284.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HW-Q600C/ZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.282.405",
+    "bulkSMBPrice": "$ 1.499.900",
+    "bulkGuestPrice": "$ 1.499.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.282.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HW-Q990C/ZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.989.905",
+    "bulkSMBPrice": "$ 4.199.900",
+    "bulkGuestPrice": "$ 4.199.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 3.989.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN43CU7000KXZL",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 1.329.905",
+    "bulkSMBPrice": "$ 1.599.900",
+    "bulkGuestPrice": "$ 1.599.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.329.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN50CU7000KXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.709.050",
+    "bulkSMBPrice": "$ 1.799.900",
+    "bulkGuestPrice": "$ 1.799.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.709.050"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN55CU7000KXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.709.905",
+    "bulkSMBPrice": "$ 2.199.899",
+    "bulkGuestPrice": "$ 2.199.899",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.709.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN58CU7000KXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.899.905",
+    "bulkSMBPrice": "$ 2.299.900",
+    "bulkGuestPrice": "$ 2.299.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.899.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN65CU7000KXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.374.905",
+    "bulkSMBPrice": "$ 2.699.901",
+    "bulkGuestPrice": "$ 2.699.901",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.374.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-P613NZA01",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.899.800",
+    "bulkGuestPrice": "$ 2.899.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "F-SM-P613NZILC",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.899.800",
+    "bulkGuestPrice": "$ 2.899.800",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X900NZAWCOO",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 7.199.900",
+    "bulkGuestPrice": "$ 7.199.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN43CU8000KXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.999.900",
+    "bulkGuestPrice": "$ 1.999.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN50CU8000KXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.899.905",
+    "bulkSMBPrice": "$ 1.999.900",
+    "bulkGuestPrice": "$ 1.999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.899.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN55CU8000KXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.899.905",
+    "bulkSMBPrice": "$ 2.399.900",
+    "bulkGuestPrice": "$ 2.399.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.899.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN65CU8000KXZL",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.517.405",
+    "bulkSMBPrice": "$ 3.099.900",
+    "bulkGuestPrice": "$ 3.099.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.517.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN70CU8000KXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.849.905",
+    "bulkSMBPrice": "$ 3.099.900",
+    "bulkGuestPrice": "$ 3.099.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.849.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN75CU8000KXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 4.299.900",
+    "bulkGuestPrice": "$ 4.299.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN85CU8000KXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 5.699.905",
+    "bulkSMBPrice": "$ 6.999.900",
+    "bulkGuestPrice": "$ 6.999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 5.699.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN50Q60CAKXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.899.905",
+    "bulkSMBPrice": "$ 2.399.900",
+    "bulkGuestPrice": "$ 2.399.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.899.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN55Q60CAKXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.279.905",
+    "bulkSMBPrice": "$ 2.599.900",
+    "bulkGuestPrice": "$ 2.599.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.279.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN65Q60CAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 2.992.405",
+    "bulkSMBPrice": "$ 3.599.900",
+    "bulkGuestPrice": "$ 3.599.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.992.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN75Q60CAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 3.989.905",
+    "bulkSMBPrice": "$ 4.099.900",
+    "bulkGuestPrice": "$ 4.099.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 3.989.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN43Q65CAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.899.900",
+    "bulkGuestPrice": "$ 1.899.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN50Q65CAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.499.900",
+    "bulkGuestPrice": "$ 2.499.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN55Q65CAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.379.881",
+    "bulkGuestPrice": "$ 2.379.881",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN65Q65CAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.599.900",
+    "bulkGuestPrice": "$ 3.599.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN75Q65CAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 4.899.900",
+    "bulkGuestPrice": "$ 4.899.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN85Q65CAKXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 6.649.905",
+    "bulkSMBPrice": "$ 7.999.900",
+    "bulkGuestPrice": "$ 7.999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 6.649.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN55Q80CAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.899.900",
+    "bulkGuestPrice": "$ 3.899.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN65Q80CAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 4.899.900",
+    "bulkGuestPrice": "$ 4.899.900",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AC024MN4DKH/CB",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 1.611.788",
+    "bulkGuestPrice": "$ 1.611.788",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AC024MN4PKH/CB",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.943.666",
+    "bulkGuestPrice": "$ 1.943.666",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AC024MXADKH/CB",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.464.222",
+    "bulkGuestPrice": "$ 3.464.222",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AC036MN4DKH/CB",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 1.866.316",
+    "bulkGuestPrice": "$ 1.866.316",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AC036MNCDKH/CB",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 2.098.366",
+    "bulkGuestPrice": "$ 2.098.366",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AC048MN4PKH/CB",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 2.688.078",
+    "bulkGuestPrice": "$ 2.688.078",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AC048MNCDKH/CB",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.748.238",
+    "bulkGuestPrice": "$ 2.748.238",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AC048MXADKH/CB",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 6.049.166",
+    "bulkGuestPrice": "$ 6.049.166",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AC048TN4PKC/VN",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.627.256",
+    "bulkGuestPrice": "$ 2.627.256",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AC048TNCDKC/VN",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.748.238",
+    "bulkGuestPrice": "$ 2.748.238",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AC048TXADKC/VN",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 5.524.244",
+    "bulkGuestPrice": "$ 5.524.244",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AC054MN4DKH/VN",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 2.465.152",
+    "bulkGuestPrice": "$ 2.465.152",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AC054TNMDKC/VN",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 3.433.678",
+    "bulkGuestPrice": "$ 3.433.678",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AC054TXADKC/VN",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 6.111.312",
+    "bulkGuestPrice": "$ 6.111.312",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-B23DBB31GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 399.900",
+    "bulkGuestPrice": "$ 399.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 399.900/$ 391.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-B23DBB39GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 399.900",
+    "bulkGuestPrice": "$ 399.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 399.900/$ 391.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-B23DBB41GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 399.900",
+    "bulkGuestPrice": "$ 399.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 399.900/$ 391.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "RA-B23DBBP0GG",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 399.900",
+    "bulkGuestPrice": "$ 399.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 399.900/$ 391.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN50CU8200KXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.804.905",
+    "bulkSMBPrice": "$ 1.999.900",
+    "bulkGuestPrice": "$ 1.999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.804.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "UN55CU8200KXZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.804.905",
+    "bulkSMBPrice": "$ 2.199.899",
+    "bulkGuestPrice": "$ 2.199.899",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.804.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AR09CVFZAWK/CB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.359.900",
+    "bulkSMBPrice": "$ 2.659.900",
+    "bulkGuestPrice": "$ 2.659.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.359.900/$ 2.312.702"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AR12CVFZAWK/CB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.599.900",
+    "bulkSMBPrice": "$ 2.919.899",
+    "bulkGuestPrice": "$ 2.919.899",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 2.599.900/$ 2.547.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AR18CVFZAWK/CB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.299.900",
+    "bulkSMBPrice": "$ 3.619.900",
+    "bulkGuestPrice": "$ 3.619.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.299.900/$ 3.233.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AR24CVFZAWK/CB",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.999.900",
+    "bulkSMBPrice": "$ 4.339.900",
+    "bulkGuestPrice": "$ 4.339.900",
+    "bulkTiered": "1-1/2",
+    "bulkTieredPrice": "$ 3.999.900/$ 3.919.902"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "LS32AG550ENXZA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.394.907",
+    "bulkSMBPrice": "$ 1.999.900",
+    "bulkGuestPrice": "$ 1.999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.394.907"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "GP-FPU022HOERW",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "$ 219.900",
+    "bulkGuestPrice": "$ 219.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 219.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HW-Q930C/ZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 3.229.905",
+    "bulkSMBPrice": "$ 3.399.900",
+    "bulkGuestPrice": "$ 3.399.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 3.229.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HW-C450/ZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 569.905",
+    "bulkSMBPrice": "$ 699.900",
+    "bulkGuestPrice": "$ 699.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 569.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A042MLBHLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 419.900",
+    "bulkSMBPrice": "$ 619.900",
+    "bulkGuestPrice": "$ 619.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 419.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-A042MZKHLTC",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 419.900",
+    "bulkSMBPrice": "$ 619.900",
+    "bulkGuestPrice": "$ 619.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 419.900"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HW-Q800C/ZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 2.184.905",
+    "bulkSMBPrice": "$ 2.299.900",
+    "bulkGuestPrice": "$ 2.299.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 2.184.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "HW-C400/ZL",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 332.405",
+    "bulkSMBPrice": "$ 399.900",
+    "bulkGuestPrice": "$ 399.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 332.405"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "QN98Q80CAKXZL",
+    "bulkStock": "outOfStock",
+    "bulkPromotionPrice": "$ 26.599.905",
+    "bulkSMBPrice": "$ 27.999.900",
+    "bulkGuestPrice": "$ 27.999.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 26.599.905"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AC036MN4PKH/CB",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 2.538.006",
+    "bulkGuestPrice": "$ 2.538.006",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AC036MXADKH/CB",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 4.478.366",
+    "bulkGuestPrice": "$ 4.478.366",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "AR-KH03E",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 146.910",
+    "bulkGuestPrice": "$ 146.910",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "PC4NUNMAN",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 594.040",
+    "bulkGuestPrice": "$ 594.040",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "PC4NUSKFN",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 568.944",
+    "bulkGuestPrice": "$ 568.944",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X910NZADCOO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 7.299.920",
+    "bulkSMBPrice": "$ 8.599.900",
+    "bulkGuestPrice": "$ 8.599.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 7.299.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X910NZEDCOO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 7.299.920",
+    "bulkSMBPrice": "$ 8.599.900",
+    "bulkGuestPrice": "$ 8.599.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 7.299.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X710NZADCOO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 5.099.920",
+    "bulkSMBPrice": "$ 6.399.900",
+    "bulkGuestPrice": "$ 6.399.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 5.099.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-X710NZEDCOO",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 5.099.920",
+    "bulkSMBPrice": "$ 6.399.900",
+    "bulkGuestPrice": "$ 6.399.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 5.099.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R930NZEALTA",
+    "bulkStock": "inStock",
+    "bulkPromotionPrice": "$ 1.399.920",
+    "bulkSMBPrice": "$ 1.899.900",
+    "bulkGuestPrice": "$ 1.899.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.399.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R930NZKALTA",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 1.399.901",
+    "bulkGuestPrice": "$ 1.399.901",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.399.920"
+  },
+  {
+    "sitecode": "co",
+    "bulkModelCode": "SM-R940NZKALTA",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "$ 1.499.900",
+    "bulkGuestPrice": "$ 1.499.900",
+    "bulkTiered": "1",
+    "bulkTieredPrice": "$ 1.499.920"
+  }
+]

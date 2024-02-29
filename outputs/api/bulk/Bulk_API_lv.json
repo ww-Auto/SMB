@@ -1,0 +1,30 @@
+[
+  {
+    "sitecode": "lv",
+    "bulkModelCode": "SM-G525FZKDEEE",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "289.00 €",
+    "bulkGuestPrice": "289.00 €",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "lv",
+    "bulkModelCode": "SM-T545NZKASEB",
+    "bulkStock": "outOfStock"
+  },
+  {
+    "sitecode": "lv",
+    "bulkModelCode": "SM-S911BLIDEUE",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "808.99 €",
+    "bulkGuestPrice": "808.99 €",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "lv",
+    "bulkModelCode": "AR09TXHQASINEU",
+    "bulkStock": "outOfStock"
+  }
+]

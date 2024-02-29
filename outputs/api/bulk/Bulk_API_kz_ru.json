@@ -1,0 +1,71 @@
+[
+  {
+    "sitecode": "kz_ru",
+    "bulkModelCode": "QE85QN85BAUXCE",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "2 799 990 ₸",
+    "bulkGuestPrice": "2 799 990 ₸",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "kz_ru",
+    "bulkModelCode": "LS55BG970NIXCI",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "1 489 990 ₸",
+    "bulkGuestPrice": "1 489 990 ₸",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "kz_ru",
+    "bulkModelCode": "LS27C310EAIXCI",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "74 990 ₸",
+    "bulkGuestPrice": "74 990 ₸",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "kz_ru",
+    "bulkModelCode": "SWA-9500S/RU",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "89 990 ₸",
+    "bulkGuestPrice": "89 990 ₸",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "kz_ru",
+    "bulkModelCode": "HW-C450/RU",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "119 990 ₸",
+    "bulkGuestPrice": "119 990 ₸",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "kz_ru",
+    "bulkModelCode": "LS24C312EAIXCI",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "54 990 ₸",
+    "bulkGuestPrice": "54 990 ₸",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "kz_ru",
+    "bulkModelCode": "SM-G525FZKDSKZ",
+    "bulkStock": "outOfStock"
+  },
+  {
+    "sitecode": "kz_ru",
+    "bulkModelCode": "SM-A530FZVDSKZ",
+    "bulkStock": "outOfStock"
+  },
+  {
+    "sitecode": "kz_ru",
+    "bulkModelCode": "SM-A730FZDDSKZ",
+    "bulkStock": "outOfStock"
+  }
+]

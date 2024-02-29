@@ -1,0 +1,20 @@
+[
+  {
+    "sitecode": "ee",
+    "bulkModelCode": "SM-G525FZKDEEE",
+    "bulkStock": "outOfStock",
+    "bulkSMBPrice": "291.38 €",
+    "bulkGuestPrice": "291.38 €",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  },
+  {
+    "sitecode": "ee",
+    "bulkModelCode": "SM-S911BLIDEUE",
+    "bulkStock": "inStock",
+    "bulkSMBPrice": "815.68 €",
+    "bulkGuestPrice": "815.68 €",
+    "bulkTieredPrice": "",
+    "bulkTiered": ""
+  }
+]
