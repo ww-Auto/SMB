@@ -1,0 +1,11 @@
+{
+    "cookieURL" : "https://stg3.shop.samsung.com/getcookie.html",
+    "TargetServer" : {
+        "hshopfront" : "https://hshopfront.samsung.com",
+        "live" : "https://hshopfront.samsung.com"
+    },
+    "slicing" :{
+        "value" : true,
+        "option" : true
+    }    
+}
