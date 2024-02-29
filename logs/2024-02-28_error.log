@@ -1,0 +1,14 @@
+2024-02-28 13:52:14 error: Cannot Connected Bulk API : https://s3-sms-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/hksme/products/all?currentPage=1&fields=BULK_SIMPLE_INFO_V2&pageSize=100
+2024-02-28 13:52:14 error: Cannot Connected Bulk API : https://s3-sms-api-cdn.ecom-stg.samsung.com/tokocommercewebservices/v2/hksme/products/all?currentPage=1&fields=BULK_SIMPLE_INFO_V2&pageSize=100
+2024-02-28 13:53:59 error: Fetch error [Retry: 1] : 
+2024-02-28 13:53:59 error: Fetch error [Retry: 1] : 
+2024-02-28 16:52:45 error: Fetch error [Retry: 1] : 
+2024-02-28 16:52:45 error: Fetch error [Retry: 1] : 
+2024-02-28 16:55:58 error: Fetch error [Retry: 1] : [object Promise]
+2024-02-28 16:55:58 error: Fetch error [Retry: 1] : [object Promise]
+2024-02-28 17:00:11 error: Fetch error [Retry: 1] : [object Promise]
+2024-02-28 17:00:11 error: Fetch error [Retry: 1] : [object Promise]
+2024-02-28 17:01:35 error: Fetch error [Retry: 1] : [object Promise]
+2024-02-28 17:01:35 error: Fetch error [Retry: 1] : [object Promise]
+2024-02-28 17:01:55 error: Fetch error [Retry: 1] : [object Promise]
+2024-02-28 17:01:55 error: Fetch error [Retry: 1] : [object Promise]
