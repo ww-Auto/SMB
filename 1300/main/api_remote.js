@@ -1,4 +1,23 @@
-// bulk >> search >> 레포트 순으로 스크립트 순차진행
+/***********************************************************************
+ 
+    PF_Guest >> cmp Request Process
+    Process : PF_remote.js
+    Writer  : JH
+    Data    : 2024-03-06
+
+    사용법
+    1. cluster >> cluster_PF
+       mergeReport >> S28_PF_cmp 에서 경로 및 날짜 config.js에서 변경
+    2. main 터미널 연 후 PF_remote 실행
+    3. PF_Guest >> cmp 순으로 순차 실행 데이터와 레포트 결과 확인
+
+    실행 결과 예시
+    1. PF_Guest = outputs/PF_Guest 폴더에서 확인가능
+    2. cmp = result 폴더에서 확인가능
+    
+ ***********************************************************************/
+
+// PF_Guest에서 레포트 작업까지 순차진행
 const { spawn } = require('child_process');
 
 function runScript(scriptPath) {
@@ -31,20 +50,17 @@ function runScript(scriptPath) {
 async function runScriptsSequentially() {
     try {
         console.log('첫 번째 스크립트 실행 중...');
-        await runScript('../../1200/api_bulk.js');
-        console.log('첫 번째 스크립트 완료.');
+        // async/await 함수를 이용해서 순차적으로 스크립트 실행
+        await runScript('../src/cluster/cluster_PF.js');
+        console.log('첫 번째 스크립트 완료');
 
         console.log('두 번째 스크립트 실행 중...');
-        await runScript('../../1200/api_search.js');
-        console.log('두 번째 스크립트 완료.');
+        await runScript('../src/mergeReport/S28_PF_cmp.js');
+        console.log('두 번째 스크립트 완료');
 
-        console.log('세 번째 스크립트 실행 중...');
-        await runScript('../src/mergeReport/S28_api_cmp.js');
-        console.log('세 번째 스크립트 완료.');
-
-        console.log('모든 스크립트 실행 완료.');
-    } catch (error) {
-        console.error(`Error executing script: ${error}`);
+        console.log('모든 스크립트 완료');
+    } catch(error) {
+        console.error(`Error executing script : ${error}`);
     }
 }
 
