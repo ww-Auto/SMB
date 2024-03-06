@@ -10,6 +10,7 @@ const xlsx = require('xlsx');
 const fs = require('fs');
 const { getPDAPI } = require('../lib/getPDAPI.js');
 const { getCurrentDate } = require('../lib/getDate.js');
+const { searchAPIPath } = require('../config/config.js');
 
 var at = 0;
 var today = getCurrentDate();
@@ -26,7 +27,7 @@ if (!dir) fs.mkdirSync("../result/PD_API_Result");
 
 // Loading Search API Data
 // var filePath = "Y:/smb/2024smb/sit/data/2024-01-23/Search_API_Result/"
-var filePath = "D:\\SMB\\outputs\\api\\search"
+var filePath = searchAPIPath;
     
 fs.readdir(filePath, function (err, files) {
     if (err) {
@@ -36,7 +37,7 @@ fs.readdir(filePath, function (err, files) {
 
     files.forEach(file => {
         if (file.endsWith('.json')) {
-            fs.readFile(`${filePath}/${file}`, 'utf8', (error, jsonFile) => {
+            fs.readFile(`${filePath}\\${file}`, 'utf8', (error, jsonFile) => {
                 if (error) {
                     console.log(`Error reading file ${file}`, error);
                     return;
