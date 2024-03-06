@@ -1,18 +1,36 @@
 /***********************************************************************
  
     BulkAPI Request Process
-    Process : S28_1202_rq.js
+    Process : S28_1202_rq.js >> api_bulk.js
     Writer  : JK
     Data    : 2022-05-16
+
+    사용법
+    1. https://hshopfront.samsung.com/lv/business/smartphones/all-smartphones/ 시크릿 모드로 접속
+    2. SMB User 로그인 후 개발자 도구 활성화 >> 새로고침 1회
+    3. Network 탭에서 user 찾은 후 쿠키값 전부 config.js cookie 부분에 붙여넣기
+    4. main쪽 터미널 연 후 api_remote 실행
+
+    실행결과 예시
+    {
+        "sitecode": "cl",
+        "bulkModelCode": "QN75QN800BGXZS",
+        "bulkStock": "inStock",
+        "bulkSMBPrice": "$4.224.990",
+        "bulkGuestPrice": "$4.224.990",
+        "bulkTieredPrice": "",
+        "bulkTiered": ""
+    }
  
  ***********************************************************************/
 
 const fs = require('fs');
 const xlsx = require('xlsx');
 const { get_BulkAPI } = require('../lib/getBulkAPI.js');
+const { bulksave } = require('../config/config.js');
 
 // Check Directory
-const savePath = '../outputs/api/bulk'; 
+const savePath = bulksave; 
 const dir = fs.existsSync(savePath);
 if(!dir) fs.mkdirSync(savePath, { recursive: true });
 
@@ -41,8 +59,8 @@ for(var key in URL) {
         const result = JSON.stringify(data, null, 2);
         try{
             var cur_sc = data[0].sitecode;
-            fs.writeFileSync(savePath + '/' + cur_sc + '.json', result);
-            console.log("BulkAPI_" + cur_sc + "_JSON File Saved!");
+            fs.writeFileSync(savePath + 'Bulk_API_' + cur_sc + '.json', result);
+            console.log("Bulk_API_" + cur_sc + "_JSON File Saved!");
             
             // Creat Excel File
             var workSheet = xlsx.utils.json_to_sheet(result);
