@@ -1,3 +1,22 @@
+/***********************************************************************
+ 
+    tiered >> cmp Request Process
+    Process : tiered_remote.js
+    Writer  : JH
+    Data    : 2024-03-06
+
+    사용법
+    1. crawling >> crawling_tiered
+       mergeReport >> S28_tiered_cmp 에서 경로 및 날짜 config.js에서 변경
+    2. main 터미널 연 후 tiered_remote 실행
+    3. crawling_tiered >> cmp 순으로 순차 실행 데이터와 레포트 결과 확인
+
+    실행 결과 예시
+    1. Tiered = outputs/Tiered Price 폴더에서 확인가능
+    2. cmp = result 폴더에서 확인가능
+    
+ ***********************************************************************/
+
 // Tiered에서 레포트 작업까지 순차진행
 const { spawn } = require('child_process');
 
@@ -30,10 +49,10 @@ function runScript(scriptPath) {
 
 async function runScriptsSequentially() {
     try {
-        // console.log('첫 번째 스크립트 실행 중...');
-        // // async/await 함수를 이용해서 순차적으로 스크립트 실행
-        // await runScript('../src/crawling/crawling_tiered.js');
-        // console.log('첫 번째 스크립트 완료');
+        console.log('첫 번째 스크립트 실행 중...');
+        // async/await 함수를 이용해서 순차적으로 스크립트 실행
+        await runScript('../src/crawling/crawling_tiered.js');
+        console.log('첫 번째 스크립트 완료');
 
         console.log('두 번째 스크립트 실행 중...');
         await runScript('../src/mergeReport/S28_tiered_cmp');
