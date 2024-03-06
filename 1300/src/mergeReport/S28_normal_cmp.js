@@ -13,7 +13,7 @@ const xlsx = require('xlsx-js-style');
 const convert = require('../../../lib/convertString.js');
 const testAssert = require('../../../lib/testAssert.js');
 const { excIndex } = require('../../../lib/excIndex.js');
-const { searchAPIPath, nasPath } = require('../../../config/config.js');
+const { sitecode, siteInEx, searchAPIPath, nasPath } = require('../../../config/config.js');
 
 var check = false;
 var rsData = new Array();
@@ -44,9 +44,9 @@ var pf_String;
 var pf_Data;
 
 
-var guest_SC =   ["lv", "lt", "ee", "tw", "hk", "hk_en", "kz_ru", "za", "hu", "co", "cl"];
-var include_SC = ["lv", "lt", "ee", "kz_ru", "hu", "cl"];
-var exclude_SC = ["lv", "lt", "ee", "kz_ru", "hu", "cl"];
+var guest_SC = sitecode;
+var include_SC = siteInEx;
+var exclude_SC = siteInEx;
 
 //await task("Guest");  
 // await task("Include");
