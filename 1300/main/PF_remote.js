@@ -1,4 +1,23 @@
-// Tiered에서 레포트 작업까지 순차진행
+/***********************************************************************
+ 
+    Search_bulk_cmp Request Process
+    Process : api_remote
+    Writer  : JH
+    Data    : 2024-03-06
+
+    사용법
+    1. 1200 >> api_bulk, api_search 
+       mergeReport >> S28_api_cmp 경로 및 날짜 config.js에서 확인 및 bulk 쿠키값 확인
+    2. main 터미널 연 후 api_remote 실행
+    3. bulk >> search >> cmp 순으로 순차 실행 데이터와 레포트 결과 확인
+
+    실행 결과 예시
+    1. bulk, search = outputs/api/bulk, search 폴더에서 확인가능
+    2. cmp = result 폴더에서 확인가능
+    
+ ***********************************************************************/
+
+// bulk >> search >> 레포트 순으로 스크립트 순차진행
 const { spawn } = require('child_process');
 
 function runScript(scriptPath) {
@@ -31,17 +50,20 @@ function runScript(scriptPath) {
 async function runScriptsSequentially() {
     try {
         console.log('첫 번째 스크립트 실행 중...');
-        // async/await 함수를 이용해서 순차적으로 스크립트 실행
-        await runScript('../src/cluster/cluster_PF.js');
-        console.log('첫 번째 스크립트 완료');
+        await runScript('../../1200/api_bulk.js');
+        console.log('첫 번째 스크립트 완료.');
 
         console.log('두 번째 스크립트 실행 중...');
-        await runScript('../src/mergeReport/S28_PF_cmp.js');
-        console.log('두 번째 스크립트 완료');
+        await runScript('../../1200/api_search.js');
+        console.log('두 번째 스크립트 완료.');
 
-        console.log('모든 스크립트 완료');
-    } catch(error) {
-        console.error(`Error executing script : ${error}`);
+        console.log('세 번째 스크립트 실행 중...');
+        await runScript('../src/mergeReport/S28_api_cmp.js');
+        console.log('세 번째 스크립트 완료.');
+
+        console.log('모든 스크립트 실행 완료.');
+    } catch (error) {
+        console.error(`Error executing script: ${error}`);
     }
 }
 
