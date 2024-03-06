@@ -1,10 +1,42 @@
 /***********************************************************************
  
     searchAPI Request Process
-    Process : S28_1201_rq.js
+    Process : S28_1201_rq.js >> api_search.js
     Writer  : JK
     Data    : 2022-04-06
 
+    실행방법
+    1. bulk와 product처럼 config.js에서 경로 및 날짜 확인
+    2. main >> api_remote.js에서 실행(벌크와 같음)
+
+    실행 결과 예시
+    {
+        "sitecode": "cl",
+        "APIType": "01010000",
+        "familyRecord": 1,
+        "displayName": "Galaxy Z Flip5",
+        "modelCode": "SM-F731BZEKLTL",
+        "pviTypeName": null,
+        "pviSubtypeName": null,
+        "ctaType": "learnMore",
+        "smbPromotionPriceDisplay": "",
+        "taxExPriceDisplay": "",
+        "promotionPriceDisplay": "",
+        "priceDisplay": "",
+        "saveText": "",
+        "marketingpdpYN": "N",
+        "tradeIn": null,
+        "KeySummaryTitle": "",
+        "KeySummaryImgUrl": "",
+        "pdpUrl": "/cl/business/smartphones/galaxy-z/galaxy-z-flip5-for-business-sm-f731bzekltl/",
+        "originPdpUrl": "/cl/business/smartphones/galaxy-z/galaxy-z-flip5-for-business-sm-f731bzekltl/",
+        "fmyChipList": "Cream",
+        "fmyChipOptionName1": "cream",
+        "fmyChipList2": "512 GB ",
+        "fmyChipOptionName2": "512 gb ",
+        "tieredPriceDisplay": "",
+        "exTieredPriceDisplay": ""
+    }
 
     mj 추가 : PD Api를 같이 돌려서 티어드가 있으면 아래 형태의 json 형식이 저장 된다
     엑셀에는 표시되지 않는다 >> 추가 필요
@@ -23,13 +55,13 @@
 const fs = require('fs');
 const xlsx = require('xlsx');
 const { get_API } = require('../lib/getSearchAPI.js');
-const { sitecode, APItype } = require('../config/config.js');
+const { sitecode, APItype, searchsave } = require('../config/config.js');
 const { getCurrentDate } = require('../lib/getDate.js');
 
 var today = getCurrentDate();
 
 // Check Directory
-const savePath = '../outputs/api/search'; 
+const savePath = searchsave; 
 const dir = fs.existsSync(savePath);
 if(!dir) fs.mkdirSync(savePath);
 
@@ -70,14 +102,14 @@ async function processAllSites() {
             allData.push(...data); // 전체 데이터 배열에 결과 추가
 
             // JSON 파일 저장
-            fs.writeFileSync(savePath + `/Search_API_${cur_sc}.json`, result);
+            fs.writeFileSync(savePath + `Search_API_${cur_sc}.json`, result);
             console.log(`${savePath} : SearchAPI_${cur_sc}_JSON File Saved!`);
 
             // 엑셀 파일 저장
             let workBook = xlsx.utils.book_new();
             let workSheet = xlsx.utils.json_to_sheet(data);
             xlsx.utils.book_append_sheet(workBook, workSheet, cur_sc);
-            xlsx.writeFile(workBook, savePath + `/SearchAPI_${cur_sc}.xlsx`);
+            xlsx.writeFile(workBook, savePath + `SearchAPI_${cur_sc}.xlsx`);
         }
 
         // 전체 데이터를 한 엑셀 파일로 저장
