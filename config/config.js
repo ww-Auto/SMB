@@ -46,6 +46,13 @@ var datasave = "D:/SMB/outputs/";
 var searchsave = datasave + "api/search/";
 var bulksave = datasave + "api/bulk/";
 var productsave = datasave + "api/product/";
+var gusetsave = datasave + "PD_Guest/";
+var Inculdetsave = datasave + "PD_Inculde/";
+var Exculdesave = datasave + "PD_Exculde/";
+var PFsave = datasave + "PF_Guest/";
+var Entiresave = datasave + "Entire/";
+var Tieredsave = datasave + "Tiered Price/";
+
 var report = "D:/SMB/result/";
 var productreport = report + "PD_API_Result/";
 
@@ -75,4 +82,10 @@ module.exports.bulksave = bulksave;
 module.exports.productsave = productsave;
 module.exports.report = report;
 module.exports.productreport = productreport;
+module.exports.gusetsave = gusetsave;
+module.exports.Inculdetsave = Inculdetsave;
+module.exports.Exculdesave = Exculdesave;
+module.exports.PFsave = PFsave;
+module.exports.Entiresave = Entiresave;
+module.exports.Tieredsave = Tieredsave;
 
