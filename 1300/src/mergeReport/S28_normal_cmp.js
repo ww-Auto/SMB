@@ -13,7 +13,7 @@ const xlsx = require('xlsx-js-style');
 const convert = require('../../../lib/convertString.js');
 const testAssert = require('../../../lib/testAssert.js');
 const { excIndex } = require('../../../lib/excIndex.js');
-const { sitecode, siteInEx, searchAPIPath, nasPath } = require('../../../config/config.js');
+const { sitecode, siteInEx, searchAPIPath, nasPath, report } = require('../../../config/config.js');
 
 var check = false;
 var rsData = new Array();
@@ -458,7 +458,7 @@ async function task(mode) {
     ws7["!merges"] = [{s: {r:0, c:0} , e: {r:0, c:43}}, {s: {r:0, c:44} , e: {r:0, c:64}}, {s: {r:0, c:65} , e: {r:0, c:74}}, {s: {r:0, c:75} , e: {r:0, c:86}}, {s: {r:0, c:87} , e: {r:0, c:98}}, {s: {r:0, c:99} , e: {r:0, c:101}}];
 
 
-    xlsx.writeFile(workBook, "../../../result/Total_Result_" + mode + ".xlsx");
+    xlsx.writeFile(workBook, report + "Total_Result_" + mode + ".xlsx");
     console.log(mode + " Result File Saved!");
 }
 

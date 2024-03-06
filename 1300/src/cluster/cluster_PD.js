@@ -1,3 +1,59 @@
+/***********************************************************************
+ 
+    PD_Guest, Include, Exclude Request Process
+    Process : cluster_PD.js
+
+    사용법
+    1. config.js에서 sitecode, siteInEx 국가 확인
+    2. cluster 터미널 연 후 cluster_PD 실행
+    3. cluster_PD 실행은 task에 Guest나 Include, Exclude 하나씩 실행
+    4. 실행 문장은 3가지 예시
+        cluster_PD lv lt tw ee hk hk_en kz_ru za hu co cl Guest
+        cluster_PD lv lt kz_ru hu cl Include
+        cluster_PD lv lt kz_ru hu cl Exclude 방식으로 실행
+    5. 원하는 국가만 실행해도 가능 (cluster_PD lv Guset, cluster_PD lv lt Include 등)
+
+    실행 결과 예시
+    {
+        "PF_URL": "https://www.samsung.com/cl/business/smartphones/all-smartphones/",
+        "SKU": "SM-F731BLGKLTL",
+        "PF_NUM": "",
+        "PF_DISPLAYNAME": "",
+        "PF_COLOR": "",
+        "PF_MEMORY": "",
+        "PF_PRICE_PROMOTION": "",
+        "PF_PRICE_SAVE": "",
+        "PF_PRICE_ORIGINAL": "",
+        "PF_TIERED_MIN": "",
+        "PF_TIERED_PRICE": "",
+        "BUY_NOW_CTA_URL": "",
+        "BUY_NOW_CTA_STOCK": "",
+        "BUY_NOW_PD_TYPE": "",
+        "BUY_NOW_FEATURE_Promotion_Price": "",
+        "BUY_NOW_FEATURE_Original_Price": "",
+        "BUY_NOW_FEATURE_Save_Price": "",
+        "BUY_NOW_BC_Promotion_Price": "",
+        "BUY_NOW_BC_Original_Price": "",
+        "BUY_NOW_BC_Save_Price": "",
+        "LEARN_MORE_CTA_URL": "",
+        "LEARN_MORE_CTA_STOCK": "",
+        "LEARN_MORE_PD_TYPE": "",
+        "LEARN_MORE_FEATURE_Promotion_Price": "",
+        "LEARN_MORE_FEATURE_Original_Price": "",
+        "LEARN_MORE_FEATURE_Save_Price": "",
+        "LEARN_MORE_BC_Promotion_Price": "",
+        "LEARN_MORE_BC_Original_Price": "",
+        "LEARN_MORE_BC_Save_Price": "",
+        "PD_Tiered_Min": "",
+        "PD_Tiered_Price": "",
+        "Cart_Price": "",
+        "Cart_Quantity": "",
+        "Cart_URL": "",
+        "Comment": "OnlyAPI"
+    } 
+    
+ ***********************************************************************/
+
 const cluster = require('cluster');
 const logger = require('../../../lib/logger.js');
 var args = process.argv;

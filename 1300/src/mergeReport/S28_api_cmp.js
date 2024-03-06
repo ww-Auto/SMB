@@ -10,7 +10,7 @@
 ////////////////////// Base Variable //////////////////////
 const fs = require('fs');
 const xlsx = require('xlsx');
-const { sitecode } = require('../../../config/config.js');
+const { sitecode, searchsave, bulksave, report } = require('../../../config/config.js');
 
 var result;
 var comment;
@@ -33,13 +33,13 @@ for(var t = 0; t < sitecode.length; t++) {
     rsData = new Array();
 
     // Get Search API Result Data
-    api_Buffer = fs.readFileSync("D:\\SMB\\outputs\\api\\search\\Search_API_" + sitecode[t] + '.json');
+    api_Buffer = fs.readFileSync(searchsave + "Search_API_" + sitecode[t] + '.json');
     api_String = api_Buffer.toString();
     api_Data = JSON.parse(api_String);
     console.log("Get Search");
 
     // Get Bulk API Result Data
-    bulk_Buffer = fs.readFileSync("D:\\SMB\\outputs\\api\\bulk\\Bulk_API_" +sitecode[t] + '.json');
+    bulk_Buffer = fs.readFileSync(bulksave + "Bulk_API_" +sitecode[t] + '.json');
     bulk_String = bulk_Buffer.toString();
     bulk_Data = JSON.parse(bulk_String);
     console.log("Get Bulk");
@@ -63,7 +63,7 @@ for(var t = 0; t < sitecode.length; t++) {
     xlsx.utils.book_append_sheet(workBook, workSheet, sitecode[t]);
 }
 
-xlsx.writeFile(workBook, 'D:\\SMB\\result\\Bulk_Search_Compare_Result.xlsx');
+xlsx.writeFile(workBook, report + 'Bulk_Search_Compare_Result.xlsx');
 console.log("Bulk and Search API Data Compare Result File Saved!");
 
 
@@ -86,30 +86,55 @@ function compare(bulk, search) {
     
     // Compare Guest Price
     if(bulk.bulkGuestPrice == undefined) bulk.bulkGuestPrice = "";
-    if(search.priceDisplay != bulk.bulkGuestPrice) {
-        comment += "| Guest_Price[ " + bulk.bulkGuestPrice + " :: " + search.priceDisplay+ " ] ";
+    if(search.promotionPriceDisplay != bulk.bulkGuestPrice) {
+        comment += "| Guest_Price[ " + bulk.bulkGuestPrice + " :: " + search.promotionPriceDisplay+ " ] ";
         tg++;
     }
     
+
+    // 변경점
+    // 추가부분 bulk_promotionPrice 부분을 search_promotionPriceDisplay와 같지 않거나 smbPromotionPriceDisplay와 같지 않을때 Fail처리
     // Compare Promotion Price
     if(bulk.bulkPromotionPrice == undefined) bulk.bulkPromotionPrice = "";
-    if(bulk.bulkPromotionPrice != "" && search.promotionPriceDisplay != bulk.bulkPromotionPrice) {
+    if(bulk.bulkPromotionPrice != "" && search.promotionPriceDisplay != bulk.bulkPromotionPrice && search.smbPromotionPriceDisplay != bulk.bulkPromotionPrice) {
         comment += "| Promotion_Price[ " + bulk.bulkPromotionPrice + " :: " + search.promotionPriceDisplay + " ] ";
         tg++;
     }
 
+    // 변경점
+    // 비교대상변경 bulk_SMBPrice와 search_PriceDisplay와 비교 후 같지 않으면 Fail 처리
     // Compare SMBPromotion Price
-    if(bulk.blukSMBPrice == undefined) bulk.blukSMBPrice = "";
-    if(bulk.blukSMBPrice != "" && search.smbPromotionPriceDisplay  != bulk.blukSMBPrice) {
-        comment += "| SMB Promotion_Price[ " + bulk.blukSMBPrice + " :: " + search.smbPromotionPriceDisplay  + " ] ";
+    if(bulk.bulkSMBPrice == undefined) bulk.bulkSMBPrice = "";
+    if(bulk.bulkSMBPrice != "" && search.priceDisplay  != bulk.bulkSMBPrice) {
+        comment += "| SMB Price[ " + bulk.bulkSMBPrice + " :: " + search.priceDisplay + " ] ";
         tg++;
     }
 
+    // 수정 시작
+
+    // Tiered에 있는 1-3,4-6 부분을 "-"형태를 분리해서 앞에 1,4,7 부분을 이용 길이를 1로 잡고 1이거나 또는 1이 아니고 공백을 경우 comment에 "TieredPrice SetUp Issue"로 표시
+
+    // compare tiered
+    if(bulk.bulkTiered == undefined) bulk.bulkTiered = "";
+    var bulkTiereds = bulk.bulkTiered.split("-");
+
+    if(bulkTiereds[0] == "1" && bulkTiereds.length == 1 || bulkTiereds[0] != "1" && bulkTiereds[0] != "") {
+        comment += "TieredPrice SetUp Issue";
+        tg++;
+    }
+
+
+    // bulkPrice에 나오는 가격 $300/$700/$1000 부분을 "/" 형태를 분리해서 앞에 가격만으로 비교
+    // Search.TierdPriceDisplay가 공백이 아니고 Search에 나오는 가격과 bulkPrice에 첫번째 가격이 같지 않을 경우 comment에 표시
+
     // Compare tieredPrice
+    // 수정 중
     if(bulk.bulkTieredPrice == undefined) bulk.bulkTieredPrice = "";
     if(search.tieredPriceDisplay == undefined) search.tieredPriceDisplay = "";
-    if(search.tieredPriceDisplay != bulk.bulkTieredPrice) {
-        comment += "| tieredPrice[ " + bulk.bulkTieredPrice  + " :: " + search.tieredPriceDisplay + " ] ";
+    var bulkPrice = bulk.bulkTieredPrice.split("/");
+
+    if(search.tieredPriceDisplay != "" && search.tieredPriceDisplay != bulkPrice[0]) {
+        comment += "| tieredPrice[ " + (bulkPrice[0] ? bulkPrice[0].trim() : "")  + " :: " + search.tieredPriceDisplay + " ] ";
         tg++;
     }
   
@@ -155,8 +180,8 @@ function write_Result(bulk, search) {
     // Writing Bulk API Data
     rsJson.Bulk_modelCode = bulk.bulkModelCode;
     rsJson.Bulk_Stock = bulk.bulkStock;
-    rsJson.Bulk_promotionPrice = bulk.bulkSMBPrice;
-    rsJson.Bulk_smbPromotionPrice = bulk.bulkPromotionPrice;
+    rsJson.Bulk_promotionPrice = bulk.bulkPromotionPrice;
+    rsJson.Bulk_SMBPrice = bulk.bulkSMBPrice;
     rsJson.Bulk_Guestprice = bulk.bulkGuestPrice;
     rsJson.BulkTiered = bulk.bulkTiered;
     rsJson.BulkTieredPrice = bulk.bulkTieredPrice;
@@ -183,7 +208,7 @@ function write_Onlyapi(bulk) {
     rsJson.Bulk_modelCode = bulk.bulkModelCode;
     rsJson.Bulk_Stock = bulk.bulkStock;
     rsJson.Bulk_promotionPrice = bulk.bulkPromotionPrice;
-    rsJson.Bulk_smbPromotionPrice = bulk.bulkSMBPrice;
+    rsJson.Bulk_SMBPrice = bulk.bulkSMBPrice;
     rsJson.Bulk_Guestprice = bulk.bulkGuestPrice;
     rsJson.BulkTiered = bulk.bulkTiered;
     rsJson.BulkTieredPrice = bulk.bulkTieredPrice;

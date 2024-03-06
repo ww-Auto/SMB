@@ -11,7 +11,7 @@
 const fs = require('fs');
 const xlsx = require('xlsx');
 const convert = require('../../../lib/convertString.js');
-const { siteTi, searchAPIPath, tieredPath } = require('../../../config/config.js');
+const { siteTi, searchAPIPath, tieredPath, report } = require('../../../config/config.js');
 
 var result;
 var rsData = new Array();
@@ -67,7 +67,7 @@ xlsx.utils.book_append_sheet(workBook, workSheet, "Fail Data");
 var workSheet = xlsx.utils.json_to_sheet(rsData);
 xlsx.utils.book_append_sheet(workBook, workSheet, "All Row Data");
 
-xlsx.writeFile(workBook, "../../../result/Tiered_Check_Result.xlsx");
+xlsx.writeFile(workBook, report + "Tiered_Check_Result.xlsx");
 console.log("Tiered Price Check Result File Saved!");
 
 

@@ -6,7 +6,7 @@ const puppeteer = require('puppeteer');
 const login = require('../../../lib/loginControl.js');
 const eleControl = require('../../../lib/elementControl.js');
 const logger = require('../../../lib/logger.js');
-const {siteTi, tieredPath, searchAPIPath } = require('../../../config/config.js');
+const {siteTi, Tieredsave, searchAPIPath } = require('../../../config/config.js');
 
 
 /*********************************************
@@ -211,7 +211,7 @@ async function main(site){
     console.log("테스트 끝///"+getDate.getCurrentTime());
     await browser.close();
     const output = JSON.stringify(result, null, 2);
-    fs.writeFileSync(tieredPath + site +'_tieredData.json',output);
+    fs.writeFileSync(Tieredsave + site +'_tieredData.json',output);
     console.log(site + " tiered Saved");
 
 }

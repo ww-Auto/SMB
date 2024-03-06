@@ -13,9 +13,9 @@ const xlsx = require('xlsx-js-style');
 const { excIndex } = require('../../../lib/excIndex.js');
 const convert = require('../../../lib/convertString.js');
 const testAssert = require('../../../lib/testAssert.js');
-const { sitecode, searchAPIPath, entirePath } = require('../../../config/config.js');
+const { sitecode, searchAPIPath, entirePath, report } = require('../../../config/config.js');
 
-var savePath = "../../../outputs/report/"; 
+var savePath = report; 
 
 
 var check = false;
@@ -55,7 +55,7 @@ async function task() {
         api_Data = JSON.parse(api_String);
 
         // Get Crawling Data
-        pf_Buffer = fs.readFileSync(entirePath + siteCode[t] + '_Entire_true_PD_output.json');
+        pf_Buffer = fs.readFileSync(entirePath + siteCode[t] + '_Entire_true_PD.json');
         pf_String = pf_Buffer.toString();
         pf_Data = JSON.parse(pf_String);
 

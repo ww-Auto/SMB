@@ -13,6 +13,7 @@ const eleControl = require('../../../lib/elementControl.js');
 const urlList = JSON.parse(fs.readFileSync('../../../config/url.json'));
 const settings = JSON.parse(fs.readFileSync('../../../config/settings.json'));
 const logger = require('../../../lib/logger.js');
+const { PFsave } = require('../../../config/config.js');
 
 //-----RUN MAIN --------
 function task(site, mode) {
@@ -40,7 +41,7 @@ function task(site, mode) {
         if(sc == "") sc = "ErrorSite";
 
         const result = JSON.stringify(data, null, 2);
-        fs.writeFileSync('D:\\SMB\\outputs\\result\\' + sc + '_' + mode + '_PF_output.json',result);
+        fs.writeFileSync(PFsave + sc + '_' + mode + '_PF_output.json',result);
         process.send({ type : "end", from: process.pid});
         process.exit(0);
     });

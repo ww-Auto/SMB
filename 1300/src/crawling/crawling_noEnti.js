@@ -13,7 +13,7 @@ const eleControl = require('../../../lib/elementControl.js');
 const settings = JSON.parse(fs.readFileSync('../../../config/settings.json'));
 const logger = require('../../../lib/logger.js');
 const getDate  = require('../../../lib/getDate.js');
-const { searchAPIPath } = require('../../../config/config.js');
+const { searchAPIPath, gusetsave } = require('../../../config/config.js');
 
 // add stealth plugin and use defaults (all evasion techniques)
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
@@ -27,7 +27,7 @@ function task(site, mode) {
         if(settings.slicing.value==true){
             slicedFileName = "_"+settings.slicing.option;
         }
-        fs.writeFileSync('../../../outputs/' + site + '_' + mode + slicedFileName +'_PD.json',result);
+        fs.writeFileSync(gusetsave + site + '_' + mode + slicedFileName +'_PD.json',result);
         console.log(site + " " + mode + " PD Output Save!");
         process.send({ type : "end", 'mode' : mode, 'pid': process.pid, 'site': site});
         process.exit(0);
@@ -37,7 +37,7 @@ function task(site, mode) {
 
 async function main(site,mode){     
     const startTime = getDate.getCurrentTime();
-    let setheadless = false;
+    let setheadless = true;
     // if(mode=="Entire") setheadless = true;
     return new Promise (async(rs, rj) => {
         puppeteer.get

@@ -1,3 +1,38 @@
+/***********************************************************************
+ 
+    PF_Guest Request Process
+    Process : cluster_PD.js
+
+    사용법
+    1. config >> url.json 파일에서 url 경로 확인
+    2. main에 PF_remote 실행
+    3. 데이터만 출력시 실행법
+        cluster 터미널 연 후 cluster_PF guest로 실행
+
+    실행 결과 예시
+    {
+        "status": "fulfilled",
+        "value": [
+        {
+            "NUM": 1,
+            "PF_URL": "https://www.samsung.com/cl/business/smartphones/all-smartphones/",
+            "PF_SKU": "SM-F946BLBJLTL",
+            "PF_DISPLAYNAME": "Galaxy Z Fold5",
+            "PF_COLOR": "Icyblue",
+            "PF_MEMORY": "256 GB",
+            "PF_PRICE_PROMOTION": "",
+            "PF_PRICE_SAVE": "",
+            "PF_PRICE_ORIGINAL": "",
+            "PF_TIERED_MIN": "",
+            "PF_TIERED_PRICE": "",
+            "CTA_1_STOCK": "",
+            "CTA_1_URL": "",
+            "CTA_2_STOCK": "learnMore",
+            "CTA_2_URL": "/cl/business/smartphones/galaxy-z/galaxy-z-fold5-for-business-sm-f946blbjltl/"
+        }
+    
+ ***********************************************************************/
+
 const fs = require('fs');
 const cluster = require('cluster');
 const task = require("../crawling/crawling_PF.js");

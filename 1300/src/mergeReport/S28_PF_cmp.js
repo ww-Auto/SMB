@@ -2,7 +2,7 @@ const fs = require('fs');
 const xlsx = require('xlsx');
 const convert = require('../../../lib/convertString.js');
 const testAssert = require('../../../lib/testAssert.js');
-const { sitecode, searchAPIPath, pfgueatPath } = require('../../../config/config.js');
+const { sitecode, searchAPIPath, pfgueatPath, report } = require('../../../config/config.js');
 
 
 var rsData = new Array();
@@ -16,7 +16,7 @@ var pf_Data;
 
 var rsFailData = new Array(); 
 
-var savePath = "../../../outputs/report/"; 
+var savePath = report; 
 
 // ToDo : fail 시트 하나로 합치기 필요
 (async() => {
