@@ -165,7 +165,7 @@ if(cluster.isMaster) {
 
 } else {
     process.setMaxListeners(50);
-    var task = require("../crawling/crawling_noEnti.js");
+    var task = require("../crawling/crawling_noEntir.js");
     let sites = cluster.worker.process.env.sites.split(',');
     let label = cluster.worker.process.env.label;
     let mode = cluster.worker.process.env.mode; // 모드 환경 변수 받기
