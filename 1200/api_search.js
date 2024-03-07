@@ -1,7 +1,6 @@
 /***********************************************************************
  
     searchAPI Request Process
-    Process : S28_1201_rq.js >> api_search.js
     Writer  : JK
     Data    : 2022-04-06
 
