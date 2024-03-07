@@ -185,9 +185,10 @@ async function main(site,mode){
                     //게스트가 아닌데 VAT옵션이 없음
                     logger.error(PF_PAGE.url() + "HAS NO VAT OPTION");
                     productData.Comment = "VATOption is not Applied";
-                    result.push(productData);                       
-                    testTarget.shift(); 
-                    continue;
+                    //아래 주석처리 이유 : 코멘트만 추가된 배열 하나씩 더 생성됨
+                    // result.push(productData);                       
+                    // testTarget.shift(); 
+                    // continue;
                 }
                 else{
                     //정상결과임(Login)
