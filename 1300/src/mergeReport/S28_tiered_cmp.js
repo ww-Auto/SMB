@@ -1,9 +1,14 @@
 /***********************************************************************
  
     PD API - Tiered Price Crawling Data Matching Process
-    Process : S28_1203_cmp.js
-    Writer  : JK
-    Data    : 2022-09-27
+    Process : S28_tiered_cmp.js
+
+    사용법(개별사용시)
+    1. crawling_tiered.js 데이터 출력과정이 끝났을 때 엑셀만 따로 출력해보고 싶을때 사용
+    2. main >> tiered_remote 사용 안하고 개별로 데이터를 출력했을 시 사용
+    3. config.js에 저장되는 위치 확인 후 readFileSync부분에 저장되는 코드 부분을 확인
+    4. mergeReport 터미널을 연 후 node S28_tiered_cmp 엔터
+    5. 엑셀이 저장되는 result폴더에서 엑셀 내용 확인
  
  ***********************************************************************/
 

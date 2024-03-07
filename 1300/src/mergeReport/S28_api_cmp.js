@@ -1,9 +1,14 @@
 /***********************************************************************
  
     Bulk - Search API Data Matching Process
-    Process : S28_1202_cmp.js
-    Writer  : JK
-    Data    : 2022-05-17
+    Process : S28_api_cmp.js
+
+    사용법(개별 사용시)
+    1. api_bulk와 api_search 데이터 출력과정이 끝났을 때 엑셀만 따로 출력해보고 싶을때 사용
+    2. main >> api_remote 사용 안하고 개별로 데이터를 출력했을 시 사용
+    3. config.js에 저장되는 위치 확인 후 readFileSync부분에 저장되는 코드 부분을 확인
+    4. mergeReport 터미널을 연 후 node S28_api_cmp 엔터
+    5. 엑셀이 저장되는 result폴더에서 엑셀 내용 확인
  
  ***********************************************************************/
 

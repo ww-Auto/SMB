@@ -1,9 +1,15 @@
 /***********************************************************************
  
-    Merge Process Type3.ver
-    Process : S28_1201_cmp.js
-    Writer  : JK
-    Data    : 2022-09-27
+    normal_PD Process Type3.ver
+    Process : S28_normal_cmp.js
+
+    사용법
+    1. cluster_PD 데이터 출력이 끝나면 사용
+    2. config.js에 저장되는 위치 확인 후 readFileSync부분에 저장되는 코드 부분을 확인
+    3. mergeReport 터미널을 연 후 node S28_normal_cmp Guest 엔터
+        (PD는 데이터가 총 3개의 값이 나오므로 Guest, Include, Exclude를 나눠서 확인 후 출력)
+        예시) node S28_normal_cmp Include, node S28_normal_cmp Exclude
+    4. 엑셀이 저장되는 result폴더에서 엑셀 내용 확인(총 3개 엑셀 결과 확인)
  
  ***********************************************************************/
 

@@ -1,3 +1,17 @@
+/***********************************************************************
+ 
+    PF_page Process Type3.ver
+    Process : S28_PF_cmp.js
+
+    사용법(개별사용시)
+    1. cluster_PF 데이터 출력과정이 끝났을 때 엑셀만 따로 출력해보고 싶을때 사용
+    2. main >> PF_remote 사용 안하고 개별로 데이터를 출력했을 시 사용
+    3. config.js에 저장되는 위치 확인 후 readFileSync부분에 저장되는 코드 부분을 확인
+    4. mergeReport 터미널을 연 후 node S28_PF_cmp 엔터
+    5. 엑셀이 저장되는 result폴더에서 엑셀 내용 확인
+ 
+ ***********************************************************************/
+
 const fs = require('fs');
 const xlsx = require('xlsx');
 const convert = require('../../../lib/convertString.js');
