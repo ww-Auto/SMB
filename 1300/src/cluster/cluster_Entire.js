@@ -9,7 +9,7 @@
     3. 시간이 오래 걸리는 작업 다른 작업이 끝나고 마지막에 진행
 
     실행과정
-    1. cluster_Entire.js을 터미널에서 실행시
+    1. cluster_Entire.js을 사용방법에 따라서 터미널에서 실행시
     2. crawling_noEnti.js에서 작업
     3. 결과 값을 출력
 
