@@ -1,3 +1,16 @@
+/*********************************************
+
+    B2C Scenario Test 
+    Tiered Price
+    Process : crawling_tiered.js
+
+    사용법(개별사용시)
+    1. main >> tiered_remote.js을 사용 안하고 데이터만 출력시 사용
+    2. crawling 터미널 연 후 node crawling_tiered.js 사용
+    3. cluster처럼 crawling을 따로 하는게 아니여서 crawling쪽에서 바로 사용 가능
+    4. 엑셀 출력까지 출력을 하고 싶으면 main에서 돌리는게 좋고 이미 데이터가 나와있으면 mergeReport로 가서 tiered쪽 확인
+
+**********************************************/
 
 const fs = require('fs');
 const getDate  = require('../../../lib/getDate.js');
