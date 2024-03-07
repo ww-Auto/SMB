@@ -1,7 +1,6 @@
 /***********************************************************************
  
     PD API Request Process
-    Process : S28_1203_rq.js >> api_product.js
     Writer  : JK
     Data    : 2022-07-06
 
