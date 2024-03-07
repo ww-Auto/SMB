@@ -1,9 +1,7 @@
 /*********************************************
     B2C Scenario Test 
     PF - PD - Cart Normal Jouney
-    Process : S28_1302
-    Writer  : DY
-    Date    : 2022-05-23
+    Process : crawling_noEntir.js
 **********************************************/
 
 const fs = require('fs');
@@ -13,41 +11,41 @@ const eleControl = require('../../../lib/elementControl.js');
 const settings = JSON.parse(fs.readFileSync('../../../config/settings.json'));
 const logger = require('../../../lib/logger.js');
 const getDate  = require('../../../lib/getDate.js');
-const { searchAPIPath, gusetsave } = require('../../../config/config.js');
+const { searchAPIPath, gusetsave, Inculdetsave, Exculdesave, Entiresave } = require('../../../config/config.js');
 
 // add stealth plugin and use defaults (all evasion techniques)
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const { executablePath } = require('puppeteer'); 
 puppeteer.use(StealthPlugin()); 
 
+var saveGu = gusetsave;
+var saveIn = Inculdetsave;
+var saveEx = Exculdesave;
+var saveEn = Entiresave;
 
-async function task(site, mode) {
-    try {
-        const data = await main(site, mode);  // main 함수에서 반환된 데이터를 기다림
+function task(site, mode) {    
+    main(site, mode).then((data) => {
         const result = JSON.stringify(data, null, 2);
-        
-        // 파일 이름 구성
         let slicedFileName = '';
         if(settings.slicing.value==true){
             slicedFileName = "_"+settings.slicing.option;
         }
 
-        // 결과 데이터를 JSON 파일로 저장
-        fs.writeFileSync(gusetsave + site + '_' + mode + slicedFileName +'_PD.json',result);
+        if(mode == "Guest") var savepage = saveGu;
+        else if(mode == "Include") var savepage = saveIn;
+        else if(mode == "Exclude") var savepage = saveEx;
+        else if(mode == "Entire") var savepage = saveEn;
+        fs.writeFileSync(savepage + site + '_' + mode + slicedFileName +'_PD.json',result);
         console.log(site + " " + mode + " PD Output Save!");
-
-         // 마스터 프로세스에게 작업 완료 메시지 전송
         process.send({ type : "end", 'mode' : mode, 'pid': process.pid, 'site': site});
-    } catch (error) {
-         // 에러 발생 시 콘솔에 로깅
-        console.error('Error in task function:', error);
-        throw error; // 오류를 다시 발생시켜 호출자에게 전달
-    } 
+        process.exit(0);
+    });
+
 }
 
 async function main(site,mode){     
     const startTime = getDate.getCurrentTime();
-    let setheadless = true;
+    let setheadless = false;
     // if(mode=="Entire") setheadless = true;
     return new Promise (async(rs, rj) => {
         puppeteer.get
@@ -195,10 +193,9 @@ async function main(site,mode){
                     //게스트가 아닌데 VAT옵션이 없음
                     logger.error(PF_PAGE.url() + "HAS NO VAT OPTION");
                     productData.Comment = "VATOption is not Applied";
-                    //아래 주석처리 이유 : 코멘트만 추가된 배열 하나씩 더 생성됨
-                    // result.push(productData);                       
-                    // testTarget.shift(); 
-                    // continue;
+                    result.push(productData);                       
+                    testTarget.shift(); 
+                    continue;
                 }
                 else{
                     //정상결과임(Login)
@@ -269,8 +266,7 @@ async function main(site,mode){
                         await PDP.setExtraHTTPHeaders({ 
                             'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36/D2CEST-AUTO-70a4cf16'
                         }); 
-                        const PDPURL = settings.TargetServer.live+CTALink.LINK; //golive 후
-                        // const PDPURL = settings.TargetServer.hshopfront+CTALink.LINK; //golive 이전 테스트서버
+                        const PDPURL = settings.TargetServer.live+CTALink.LINK;
                         try{
                             await PDP.goto(PDPURL);      
                         }catch(e){
