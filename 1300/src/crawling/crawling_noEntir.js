@@ -23,6 +23,19 @@ var saveIn = Inculdetsave;
 var saveEx = Exculdesave;
 var saveEn = Entiresave;
 
+const Guset = fs.existsSync(gusetsave);
+if(!Guset) fs.mkdirSync(gusetsave);
+
+const Include = fs.existsSync(Inculdetsave);
+if(!Include) fs.mkdirSync(Inculdetsave);
+
+const Exclude = fs.existsSync(Exculdesave);
+if(!Exclude) fs.mkdirSync(Exculdesave);
+
+const Entire = fs.existsSync(Entiresave);
+if(!Entire) fs.mkdirSync(Entiresave);
+
+
 async function task(site, mode) {
     try {
         const data = await main(site, mode);  // main 함수에서 반환된 데이터를 기다림
