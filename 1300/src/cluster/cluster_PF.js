@@ -9,6 +9,11 @@
     3. 데이터만 출력시 실행법
         cluster 터미널 연 후 cluster_PF guest로 실행
 
+    실행과정
+    1. cluster_PF.js 사용법에 따라서 터미널에서 실행시
+    2. crawling_PF.js에서 작업
+    3. 결과 값을 출력
+
     실행 결과 예시
     {
         "status": "fulfilled",
