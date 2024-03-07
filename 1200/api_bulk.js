@@ -1,7 +1,6 @@
 /***********************************************************************
  
     BulkAPI Request Process
-    Process : S28_1202_rq.js >> api_bulk.js
     Writer  : JK
     Data    : 2022-05-16
 
