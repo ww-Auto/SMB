@@ -84,7 +84,7 @@ if(cluster.isMaster) {
 
 } else {
     process.setMaxListeners(50);
-    var task = require("../crawling/crawling_noEnti.js");
+    var task = require("../crawling/crawling_noEntir.js");
     task(cluster.worker.process.env.site, cluster.worker.process.env.mode);   
 }
 
