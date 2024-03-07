@@ -13,6 +13,11 @@
         cluster_PD lv lt kz_ru hu cl Exclude 방식으로 실행
     5. 원하는 국가만 실행해도 가능 (cluster_PD lv Guset, cluster_PD lv lt Include 등)
 
+    실행과정
+    1. cluster_PD.js 사용법에 따라서 터미널에서 실행시
+    2. crawling_noEnti.js에서 작업
+    3. 결과 값을 출력
+
     실행 결과 예시
     {
         "PF_URL": "https://www.samsung.com/cl/business/smartphones/all-smartphones/",
