@@ -1,7 +1,8 @@
 
 const fs = require('fs');
 const getDate  = require('../../../lib/getDate.js');
-const settings = JSON.parse(fs.readFileSync('D:\\SMB\\config\\settings.json'));
+// const settings = JSON.parse(fs.readFileSync('D:\\SMB\\config\\settings.json'));
+const settings = JSON.parse(fs.readFileSync('../../../config/settings.json'));
 const puppeteer = require('puppeteer');
 const login = require('../../../lib/loginControl.js');
 const eleControl = require('../../../lib/elementControl.js');
