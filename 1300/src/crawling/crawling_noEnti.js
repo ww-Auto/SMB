@@ -20,19 +20,29 @@ const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const { executablePath } = require('puppeteer'); 
 puppeteer.use(StealthPlugin()); 
 
-function task(site, mode) {    
-    main(site, mode).then((data) => {
+
+async function task(site, mode) {
+    try {
+        const data = await main(site, mode);  // main 함수에서 반환된 데이터를 기다림
         const result = JSON.stringify(data, null, 2);
+        
+        // 파일 이름 구성
         let slicedFileName = '';
         if(settings.slicing.value==true){
             slicedFileName = "_"+settings.slicing.option;
         }
+
+        // 결과 데이터를 JSON 파일로 저장
         fs.writeFileSync(gusetsave + site + '_' + mode + slicedFileName +'_PD.json',result);
         console.log(site + " " + mode + " PD Output Save!");
-        process.send({ type : "end", 'mode' : mode, 'pid': process.pid, 'site': site});
-        process.exit(0);
-    });
 
+         // 마스터 프로세스에게 작업 완료 메시지 전송
+        process.send({ type : "end", 'mode' : mode, 'pid': process.pid, 'site': site});
+    } catch (error) {
+         // 에러 발생 시 콘솔에 로깅
+        console.error('Error in task function:', error);
+        throw error; // 오류를 다시 발생시켜 호출자에게 전달
+    } 
 }
 
 async function main(site,mode){     
