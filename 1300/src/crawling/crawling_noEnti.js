@@ -258,7 +258,8 @@ async function main(site,mode){
                         await PDP.setExtraHTTPHeaders({ 
                             'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36/D2CEST-AUTO-70a4cf16'
                         }); 
-                        const PDPURL = settings.TargetServer.live+CTALink.LINK;
+                        const PDPURL = settings.TargetServer.live+CTALink.LINK; //golive 후
+                        // const PDPURL = settings.TargetServer.hshopfront+CTALink.LINK; //golive 이전 테스트서버
                         try{
                             await PDP.goto(PDPURL);      
                         }catch(e){
