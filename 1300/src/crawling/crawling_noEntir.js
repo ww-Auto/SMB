@@ -85,8 +85,11 @@ async function main(site,mode){
 
         var now = 1;
         var total = testTarget.length;
-                
+
         let PF_PAGE = await browser.newPage();    
+        await PF_PAGE.setExtraHTTPHeaders({ 
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36/D2CEST-AUTO-70a4cf16'
+        });  
 
         //window.testlog
         await PF_PAGE.exposeFunction('testlog', async (msg) => {
@@ -280,10 +283,7 @@ async function main(site,mode){
                     //링크가 있을경우
                     if(CTALink.LINK!=null && CTALink.LINK!="javascript:;"){                        
                         
-                        const PDP = await browser.newPage();
-                        await PDP.setExtraHTTPHeaders({ 
-                            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36/D2CEST-AUTO-70a4cf16'
-                        }); 
+                        const PDP = await browser.newPage(); 
                         const PDPURL = settings.TargetServer.live+CTALink.LINK;
                         try{
                             await PDP.goto(PDPURL);      
